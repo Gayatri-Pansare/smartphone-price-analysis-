@@ -1,2 +1,2 @@
 # smartphone-price-analysis-
-"Smartphone data analysis project exploring feature-price correlations and market trends using Python."
+Smartphone Data Analysis project using data scraped from Smartprix. The dataset includes 20+ smartphone features such as brand, price, rating, processor, RAM, storage, cameras, battery, and fast charging. The project covers data cleaning, preprocessing, and exploratory data analysis (EDA) using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Insights include correlations between features and price, identification of key factors influencing smartphone costs, and trends across brands and models.
