@@ -1,0 +1,1010 @@
+brand_name,model,price,rating,has_5g,has_nfc,has_ir_blaster,processor,processor_brand,num_cores,processor_speed_GHz,ram_capacity,internal_storage,battery_capacity_mAh,fast_charging_W,screen_size_inches,resolution_width,resolution_height,refresh_rate_Hz,num_rear_cameras,num_front_cameras,primary_rear_camera_mp,primary_front_camera_mp,operating_system,extended_memory
+realme,Realme P4 Pro 5G,24999,73,Yes,No,Yes,Snapdragon 7 Gen 4,snapdragon,Octa Core,,8.0,128,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+realme,Realme P4 5G,18499,77,Yes,No,Yes,Dimensity 7400 Ultra,mediatek,Octa Core,2.6,6.0,128,7000.0,80,6.77,1080,2392,144.0,2,1.0,50.0,16.0,Android,0
+vivo,Vivo V60 5G,36999,86,Yes,Yes,Yes,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8.0,128,6500.0,90,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+xiaomi,Xiaomi Redmi 15 5G,14999,78,Yes,No,Yes,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,6.0,128,7000.0,33,6.9,1080,2340,144.0,2,1.0,50.0,8.0,Android,1024
+motorola,Motorola Moto G86 Power 5G,18999,83,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,128,6720.0,33,6.7,1220,2712,120.0,2,1.0,50.0,32.0,Android,1024
+poco,Poco M7 Plus 5G,13999,76,Yes,No,Yes,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,6.0,128,7000.0,33,6.9,1080,2340,144.0,1,1.0,50.0,8.0,Android,2048
+oneplus,OnePlus Nord CE 5 5G,24998,83,Yes,No,Yes,Dimensity 8350 Apex,mediatek,Octa Core,3.35,8.0,128,7100.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,1024
+xiaomi,Xiaomi Redmi Note 14 SE 5G,14999,81,Yes,Yes,Yes,Dimensity 7025 Ultra,mediatek,Octa Core,2.5,6.0,128,5110.0,45,6.67,1080,2400,120.0,3,1.0,50.0,20.0,Android,1024
+vivo,Vivo T4R 5G,19499,80,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,128,5700.0,44,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo X200 FE,54999,89,Yes,Yes,Yes,Dimensity 9300 Plus,mediatek,Octa Core,3.25,12.0,256,6500.0,90,6.31,1216,2640,120.0,3,1.0,50.0,50.0,Android,0
+lava,Lava Play Ultra 5G,14999,79,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,6.0,128,5000.0,33,6.67,1080,1920,120.0,2,1.0,64.0,13.0,Android,1024
+oppo,OPPO Reno 14 5G,37998,86,Yes,No,Yes,Dimensity 8350,mediatek,Octa Core,3.35,8.0,256,6000.0,80,6.59,1256,2760,120.0,3,1.0,50.0,50.0,Android,0
+iqoo,iQOO Neo 10R,24105,81,Yes,No,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,8.0,128,6400.0,80,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+oneplus,OnePlus Nord 5 5G,31999,84,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,8.0,256,6800.0,80,6.83,1272,2800,144.0,2,1.0,50.0,50.0,Android,0
+vivo,Vivo T4x 5G,13999,75,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,6.0,128,6500.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,0
+motorola,Motorola Edge 60 Fusion,22585,84,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.5,8.0,256,5500.0,68,6.7,1220,2712,120.0,2,1.0,50.0,32.0,Android,1024
+xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 256GB),16999,80,Yes,No,Yes,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8.0,256,7000.0,33,6.9,1080,2340,144.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy S24 FE 5G,34511,84,Yes,Yes,No,Exynos 2400e,exynos,Deca Core,3.11,8.0,128,4700.0,25,6.7,1080,2340,120.0,3,1.0,50.0,10.0,Android,0
+motorola,Motorola Moto G96 5G,18242,80,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,128,5500.0,33,6.67,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+oppo,Oppo K13,17620,78,Yes,No,Yes,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8.0,128,7000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme P1 5G,12000,78,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,6.0,128,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+vivo,Vivo T4 5G,21757,79,Yes,No,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,128,7300.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+poco,Poco M7 Plus 5G (8GB RAM + 256GB),14999,79,Yes,No,Yes,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8.0,128,7000.0,33,6.9,1080,2340,144.0,1,1.0,50.0,8.0,Android,2048
+samsung,Samsung Galaxy S24 Ultra,84998,92,Yes,Yes,No,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,256,5000.0,45,6.8,1440,3120,120.0,4,1.0,200.0,12.0,Android,0
+motorola,Motorola Edge 60 Pro,30169,80,Yes,Yes,No,Dimensity 8350 Extreme,mediatek,Octa Core,3.35,8.0,256,6000.0,90,6.7,1220,2712,120.0,3,1.0,50.0,50.0,Android,0
+oppo,OPPO Reno 14 Pro 5G,49998,90,Yes,Yes,Yes,Dimensity 8450,mediatek,Octa Core,3.25,12.0,256,6200.0,80,6.83,1272,2800,120.0,3,1.0,50.0,50.0,Android,0
+realme,Realme 15 Pro 5G,30800,84,Yes,No,No,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8.0,128,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+oppo,Oppo F27 Pro Plus 5G,17999,79,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,256,5000.0,67,6.7,1080,2412,120.0,2,1.0,64.0,8.0,Android,0
+oppo,Oppo K13 Turbo Pro,37999,82,Yes,No,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8.0,256,7000.0,80,6.8,1280,2800,120.0,2,1.0,50.0,16.0,Android,0
+tecno,Tecno Spark Go 5G,9999,71,Yes,No,Yes,Dimensity 6400,mediatek,Octa Core,2.5,4.0,128,6000.0,18,6.74,720,1600,120.0,1,1.0,50.0,5.0,Android,0
+oneplus,OnePlus Nord CE 4 5G,20365,81,Yes,No,Yes,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,128,5500.0,100,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,1024
+realme,Realme GT Neo 3 5G (12GB RAM + 256GB),17000,82,Yes,Yes,No,Dimensity  8100,mediatek,Octa Core,2.85,12.0,256,4500.0,150,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo V60 5G (8GB RAM + 256GB),38999,87,Yes,Yes,Yes,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8.0,256,6500.0,90,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+realme,Realme P3 Ultra,23899,81,Yes,No,Yes,Dimensity 8350 Ultra,mediatek,Octa Core,3.35,8.0,128,6000.0,80,6.83,1272,2800,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy S25 Ultra,106750,93,Yes,Yes,No,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12.0,256,5000.0,45,6.9,1440,3120,120.0,4,1.0,200.0,12.0,Android,0
+samsung,Samsung Galaxy A35 5G,19999,82,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+iqoo,iQOO Z10R,19498,80,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,128,5700.0,44,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo V60 5G (12GB RAM + 256GB),40999,87,Yes,Yes,Yes,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12.0,256,6500.0,90,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+vivo,Vivo Y400 5G,21999,79,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,128,6000.0,90,6.67,1080,2400,120.0,2,1.0,50.0,32.0,Android,0
+realme,Realme P3 5G,16392,79,Yes,Yes,No,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,6.0,128,6000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+iqoo,iQOO Neo 10,31998,83,Yes,Yes,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8.0,128,7000.0,120,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+lava,Lava Blaze AMOLED 2,13499,75,Yes,No,No,Dimensity 7060,mediatek,Octa Core,2.6,6.0,128,5000.0,-1,6.67,1080,2400,120.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo T4 Lite 5G,9999,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,15,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,2048
+oneplus,OnePlus 13R 5G,42999,86,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,256,6000.0,80,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+motorola,Motorola Edge 60 5G,26850,88,Yes,Yes,No,Dimensity 7400,mediatek,Octa Core,2.6,12.0,256,5500.0,68,6.7,1220,2712,120.0,3,1.0,50.0,50.0,Android,1024
+nothing,Nothing Phone 3a,23258,83,Yes,Yes,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,128,5000.0,50,6.77,1080,2392,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Edge 50 Fusion,18789,83,Yes,Yes,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,128,5000.0,68,6.67,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+realme,Realme C11,2750,60,No,No,No,Helio G35,mediatek,Octa Core,2.3,2.0,32,5000.0,-1,6.5,720,1600,60.0,2,1.0,13.0,5.0,Android,256
+vivo,Vivo Y400 Pro 5G,23999,79,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,5500.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+infinix,Infinix Hot 60i 5G,9299,73,Yes,No,Yes,Dimensity 6400,mediatek,Octa Core,2.5,4.0,128,6000.0,45,6.75,720,1600,120.0,1,1.0,50.0,5.0,Android,2048
+oppo,Oppo K13 Turbo,27999,80,Yes,No,Yes,Dimensity 8450,mediatek,Octa Core,3.25,8.0,128,7000.0,80,6.8,1280,2800,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme 15 5G,24999,74,Yes,No,No,Dimensity 7300 Plus,mediatek,Octa Core,,8.0,128,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+vivo,Vivo V50 5G,32999,83,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,128,6000.0,90,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+oppo,OPPO K13x 5G,11815,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+samsung,Samsung Galaxy A55 5G,26999,84,Yes,Yes,No,Exynos 1480,exynos,Octa Core,2.7,8.0,128,5000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,32.0,Android,1024
+infinix,Infinix Note 50s 5G,15999,79,Yes,No,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,128,5500.0,45,6.78,1080,2436,144.0,2,1.0,64.0,13.0,Android,0
+xiaomi,Xiaomi Redmi 13 5G (8GB RAM + 128GB),11999,81,Yes,No,Yes,Snapdragon 4 Gen 2 AE,snapdragon,Octa Core,2.3,8.0,128,5030.0,33,6.79,1080,2460,120.0,2,1.0,108.0,13.0,Android,1024
+poco,Poco M6 Plus 5G (8GB RAM + 128GB),10499,81,Yes,No,Yes,Snapdragon 4 Gen2 AE,snapdragon,Octa Core,2.3,8.0,128,5030.0,33,6.79,1080,2460,120.0,2,1.0,108.0,13.0,Android,1024
+iqoo,iQOO Z10x,13498,74,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,6.0,128,6500.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,0
+realme,Realme P4 5G (8GB RAM + 256GB),21499,80,Yes,No,Yes,Dimensity 7400 Ultra,mediatek,Octa Core,2.6,8.0,256,7000.0,80,6.77,1080,2392,144.0,2,1.0,50.0,16.0,Android,0
+realme,Realme P4 Pro 5G (8GB RAM + 256GB),26999,74,Yes,No,Yes,Snapdragon 7 Gen 4,snapdragon,Octa Core,,8.0,256,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+oppo,OPPO Reno 13 Pro 5G (12GB RAM + 512GB),35198,89,Yes,Yes,Yes,Dimensity 8350,mediatek,Octa Core,3.35,12.0,512,5800.0,80,6.83,1272,2800,120.0,3,1.0,50.0,50.0,Android,0
+poco,Poco F7 5G,31999,83,Yes,Yes,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12.0,256,7550.0,90,6.83,1280,2772,120.0,2,1.0,50.0,20.0,Android,0
+motorola,Motorola Moto G85 5G,16275,80,Yes,No,No,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,50.0,32.0,Android,1024
+xiaomi,Xiaomi Redmi Note 14 Pro Plus,25039,83,Yes,Yes,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,128,6200.0,90,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+samsung,Samsung Galaxy S24 5G,50400,86,Yes,Yes,No,Exynos 2400,exynos,Deca Core,3.2,8.0,256,4000.0,25,6.2,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+apple,Apple iPhone 16,72499,85,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,128,3561.0,0,6.1,1179,2556,60.0,2,1.0,48.0,12.0,iOS,0
+samsung,Samsung Galaxy S25 5G,69750,87,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,256,4000.0,25,6.2,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+oneplus,OnePlus 13s 5G,54998,87,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12.0,256,5850.0,80,6.32,1216,2640,120.0,2,1.0,50.0,32.0,Android,0
+motorola,Motorola Moto G45 5G (8GB RAM + 128GB),12199,79,Yes,No,No,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8.0,128,5000.0,20,6.5,720,1600,120.0,2,1.0,50.0,16.0,Android,1024
+realme,Realme P1 5G (8GB RAM+ 128GB),12500,80,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,128,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+vivo,Vivo T4 Ultra,37250,85,Yes,Yes,No,Dimensity 9300 Plus,mediatek,Octa Core,3.25,8.0,256,5500.0,90,6.67,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+poco,Poco M7 Pro 5G,13448,77,Yes,No,Yes,Dimensity 7025 Ultra,mediatek,Octa Core,2.5,6.0,128,5110.0,45,6.67,1080,2400,120.0,2,1.0,50.0,20.0,Android,1024
+samsung,Samsung Galaxy F36 5G,17480,80,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,6.0,128,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,2048
+realme,Realme P4 Pro 5G (12GB RAM + 256GB),28999,75,Yes,No,Yes,Snapdragon 7 Gen 4,snapdragon,Octa Core,,12.0,256,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+realme,Realme P3 Pro 5G,23999,79,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,128,6000.0,80,6.83,1272,2800,120.0,2,1.0,50.0,16.0,Android,0
+oppo,Oppo F27 Pro Plus 5G (8GB RAM +128GB),15999,78,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,128,5000.0,67,6.7,1080,2412,120.0,2,1.0,64.0,8.0,Android,0
+infinix,Infinix GT 30 Pro,24599,88,Yes,Yes,Yes,Dimensity 8350 Ultimate,mediatek,Octa Core,3.35,8.0,256,5500.0,45,6.78,1224,2720,144.0,2,1.0,108.0,13.0,Android,1024
+google,Google Pixel 9A,41140,84,Yes,Yes,No,Tensor G4,tensor,Octa Core,3.1,8.0,256,5100.0,23,6.3,1080,2424,120.0,2,1.0,48.0,13.0,Android,0
+samsung,Samsung Galaxy A56 5G,38999,83,Yes,Yes,No,Exynos 1580,exynos,Octa Core,2.9,8.0,128,5000.0,45,6.7,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+poco,Poco M7 5G,9498,75,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5160.0,18,6.88,720,1640,120.0,1,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi Note 14,16789,82,Yes,Yes,Yes,Dimensity 7025 Ultra,mediatek,Octa Core,2.5,6.0,128,5110.0,45,6.67,1080,2400,120.0,3,1.0,50.0,20.0,Android,1024
+iqoo,iQOO 13 5G,54998,89,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12.0,256,6000.0,120,6.82,1440,3168,144.0,3,1.0,50.0,32.0,Android,0
+poco,Poco M7 Plus 5G (8GB RAM + 128GB),14999,79,Yes,No,Yes,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8.0,128,7000.0,33,6.9,1080,2340,144.0,1,1.0,50.0,8.0,Android,2048
+realme,Realme P4 5G (8GB RAM + 128GB),19499,79,Yes,No,Yes,Dimensity 7400 Ultra,mediatek,Octa Core,2.6,8.0,128,7000.0,80,6.77,1080,2392,144.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy F16 5G (6GB RAM + 128GB),12999,78,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+samsung,Samsung Galaxy A36 5G,30999,81,Yes,Yes,No,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8.0,128,5000.0,45,6.7,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+iqoo,iQOO Z10 5G,21998,80,Yes,No,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,128,7300.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+xiaomi,Xiaomi Redmi A4 5G,7998,69,Yes,No,No,Snapdragon 4s Gen2,snapdragon,Octa Core,2.0,4.0,64,5160.0,18,6.88,720,1640,120.0,2,1.0,50.0,5.0,Android,1024
+motorola,Motorola Moto Edge 50 Neo,19999,85,Yes,Yes,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,4310.0,68,6.4,1220,2712,120.0,3,1.0,50.0,32.0,Android,0
+nothing,Nothing Phone 3 5G,49728,90,Yes,Yes,No,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12.0,256,5500.0,65,6.67,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+oneplus,OnePlus Nord CE 4 Lite 5G,16999,81,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5500.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+apple,Apple iPhone 16 Pro Max,130900,89,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,256,4685.0,0,6.9,1320,2868,120.0,3,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 15,56590,81,Yes,Yes,No,Bionic A16,bionic,Hexa Core,3.46,6.0,128,3349.0,0,6.1,1179,2556,60.0,2,1.0,48.0,12.0,iOS,0
+oneplus,OnePlus Nord CE 5 5G (8GB RAM + 256GB),26998,83,Yes,No,Yes,Dimensity 8350 Apex,mediatek,Octa Core,3.35,8.0,256,7100.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,1024
+motorola,Motorola Edge 60 Pro (16GB RAM + 512GB),37999,89,Yes,Yes,No,Dimensity 8350 Extreme,mediatek,Octa Core,3.35,16.0,512,6000.0,90,6.7,1220,2712,120.0,3,1.0,50.0,50.0,Android,0
+cmf,CMF Phone 2 Pro,17000,83,Yes,No,No,Dimensity 7300 Pro,mediatek,Octa Core,2.5,8.0,128,5000.0,33,6.77,1080,2392,120.0,3,1.0,50.0,16.0,Android,2048
+vivo,Vivo T4x 5G (8GB RAM + 256GB),16999,78,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,6500.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,0
+vivo,Vivo X200 Pro 5G,94999,95,Yes,Yes,Yes,Dimensity 9400,mediatek,Octa Core,3.63,16.0,512,6000.0,90,6.78,1260,2800,120.0,3,1.0,200.0,32.0,Android,0
+oppo,OPPO Reno 13 5G,30990,85,Yes,Yes,Yes,Dimensity 8350,mediatek,Octa Core,3.35,8.0,128,5600.0,80,6.59,1256,2760,120.0,3,1.0,50.0,50.0,Android,0
+realme,Realme C33 (4GB RAM + 64GB),4000,66,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,-1,6.5,720,1600,60.0,2,1.0,50.0,5.0,Android,1024
+realme,Realme P3x 5G,12999,76,Yes,No,No,Dimensity 6400,mediatek,Octa Core,2.5,6.0,128,6000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,0
+oneplus,OnePlus 13,64999,91,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12.0,256,6000.0,100,6.82,1440,3168,120.0,3,1.0,50.0,32.0,Android,0
+poco,Poco X7 Pro 5G,23899,83,Yes,Yes,Yes,Dimensity 8400 Ultra,mediatek,Octa Core,3.25,8.0,256,6550.0,90,6.67,1220,2712,120.0,2,1.0,50.0,20.0,Android,0
+iqoo,iQOO Z10 Lite,9998,71,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,15,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,0
+iqoo,iQOO Neo 10R (8GB RAM + 256GB),25948,81,Yes,No,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,8.0,256,6400.0,80,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+motorola,Motorola Edge 60 Stylus,22596,86,Yes,Yes,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,256,5000.0,68,6.7,1220,2712,120.0,2,1.0,50.0,32.0,Android,1024
+honor,Honor X7c 5G,14999,79,Yes,Yes,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,256,5200.0,35,6.8,1080,2412,90.0,2,1.0,50.0,5.0,Android,0
+xiaomi,Xiaomi Redmi Note 14 Pro 5G,20990,81,Yes,Yes,Yes,Dimensity 7300 Ultra,mediatek,Octa Core,2.5,8.0,128,5500.0,45,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+vivo,Vivo T4R 5G (8GB RAM + 256GB),21499,81,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,256,5700.0,44,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+oppo,Oppo K13 (8GB RAM + 256GB),19870,78,Yes,No,Yes,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8.0,256,7000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+motorola,Motorola Edge 60 Fusion 5G (12GB RAM + 256GB),24678,85,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.5,12.0,256,5500.0,68,6.7,1220,2712,120.0,2,1.0,50.0,32.0,Android,1024
+poco,Poco C75 5G,7699,69,Yes,No,No,Snapdragon 4s Gen2,snapdragon,Octa Core,2.0,4.0,64,5160.0,18,6.88,720,1650,120.0,2,1.0,50.0,5.0,Android,1024
+google,Google Pixel 10 Pro,109999,83,Yes,Yes,No,Tensor G5,tensor,Octa Core,,16.0,256,4870.0,30,6.3,1280,2856,120.0,3,1.0,50.0,42.0,Android,0
+realme,Realme GT 6,27999,85,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,8.0,256,5500.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme 12 Plus 5G,14999,81,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,128,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,2048
+samsung,Samsung Galaxy M06 5G,9499,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,25,6.74,720,1600,90.0,2,1.0,50.0,8.0,Android,1536
+samsung,Samsung Galaxy S24 Plus,52999,87,Yes,Yes,No,Exynos 2400,exynos,Deca Core,3.2,12.0,256,4900.0,45,6.7,1440,3120,120.0,3,1.0,50.0,12.0,Android,0
+samsung,Samsung Galaxy M35 5G,18999,79,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,6.0,128,6000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+realme,Realme X7 Pro,15000,82,Yes,Yes,No,Dimensity 1000+,mediatek,Octa Core,2.6,8.0,128,4500.0,65,6.55,1080,2400,120.0,4,1.0,64.0,32.0,Android,0
+oneplus,OnePlus Nord CE 5 5G (12GB RAM + 256GB),28998,84,Yes,No,Yes,Dimensity 8350 Apex,mediatek,Octa Core,3.35,12.0,256,7100.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,1024
+vivo,Vivo T4 Lite 5G (6 GB RAM +128 GB),10999,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,15,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,2048
+motorola,Motorola Moto G35 5G,10428,76,Yes,No,No,Unisoc T760,unisoc,Octa Core,2.2,4.0,128,5000.0,18,6.72,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy A16 5G,17499,80,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+apple,Apple iPhone 13,43900,76,Yes,Yes,No,Bionic A15,bionic,Hexa Core,3.22,4.0,128,3240.0,0,6.1,1170,2532,60.0,2,1.0,12.0,12.0,iOS,0
+vivo,Vivo V60 5G (16GB RAM + 512GB),45999,89,Yes,Yes,Yes,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,16.0,512,6500.0,90,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+ai+,Ai+ Pulse,5499,68,No,No,No,Unisoc T615,unisoc,Octa Core,1.8,4.0,64,5000.0,10,6.75,720,1600,90.0,1,1.0,50.0,5.0,Android,1024
+vivo,Vivo T4x 5G (8GB RAM + 128GB),14999,77,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,6500.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,0
+nothing,Nothing Phone 3a Pro,27136,86,Yes,Yes,No,Snapdragon 7s Gen 3,snapdragon,Octa Core,2.5,8.0,128,5000.0,50,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy A26 5G,22990,82,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,2048
+vivo,Vivo V50e 5G,26999,81,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,5600.0,90,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+infinix,Infinix Note 50X 5G,11488,74,Yes,No,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,6.0,128,5500.0,45,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,0
+oppo,Oppo F29 Pro 5G,25999,78,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,6000.0,80,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,0
+motorola,Motorola Moto G64 5G,14940,82,Yes,No,No,Dimensity 7025,mediatek,Octa Core,2.5,8.0,128,6000.0,33,6.5,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy M05,6499,69,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,25,6.7,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+poco,Poco X7 5G,17390,82,Yes,Yes,Yes,Dimensity 7300 Ultra,mediatek,Octa Core,2.5,8.0,128,5500.0,45,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+motorola,Motorola Moto G96 5G (8GB RAM + 256GB),20179,80,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,256,5500.0,33,6.67,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo X200 FE (16GB RAM + 512GB),59999,90,Yes,Yes,Yes,Dimensity 9300 Plus,mediatek,Octa Core,3.25,16.0,512,6500.0,90,6.31,1216,2640,120.0,3,1.0,50.0,50.0,Android,0
+oppo,OPPO K13x 5G (6GB RAM +128GB),12924,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+honor,Honor X9c,21999,82,Yes,Yes,Yes,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,256,6600.0,66,6.78,1224,2700,60.0,2,1.0,108.0,16.0,Android,0
+samsung,Samsung Galaxy M55s,17755,83,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8.0,128,5000.0,45,6.7,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+xiaomi,Xiaomi 14 Civi,39999,87,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,8.0,256,4700.0,67,6.55,1236,2750,120.0,3,2.0,50.0,32.0,Android,0
+apple,Apple iPhone 16 Pro,110900,87,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,128,3582.0,0,6.3,1206,2622,120.0,3,1.0,48.0,12.0,iOS,0
+google,Google Pixel 9,59880,87,Yes,Yes,No,Tensor G4,tensor,Octa Core,3.1,12.0,256,4700.0,27,6.3,1080,2424,120.0,2,1.0,50.0,10.5,Android,0
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,19699,81,Yes,No,Yes,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8.0,128,5100.0,67,6.67,1220,2712,120.0,3,1.0,200.0,16.0,Android,0
+oneplus,OnePlus Nord 5 (12GB RAM + 256GB),34999,85,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,256,6800.0,80,6.83,1272,2800,144.0,2,1.0,50.0,50.0,Android,0
+lava,Lava Storm Play 5G,9999,74,Yes,No,No,Dimensity 7060,mediatek,Octa Core,2.6,6.0,128,5000.0,18,6.75,720,1600,120.0,2,1.0,50.0,8.0,Android,1024
+infinix,Infinix GT 30 Pro 5G (12GB RAM + 256GB),27199,89,Yes,Yes,Yes,Dimensity 8350 Ultimate,mediatek,Octa Core,3.35,12.0,256,5500.0,45,6.78,1224,2720,144.0,2,1.0,108.0,13.0,Android,1024
+samsung,Samsung Galaxy S24 FE (256GB),42943,85,Yes,Yes,No,Exynos 2400e,exynos,Deca Core,3.11,8.0,256,4700.0,25,6.7,1080,2340,120.0,3,1.0,50.0,10.0,Android,0
+vivo,Vivo T3 Ultra,25599,82,Yes,No,No,Dimensity 9200 Plus,mediatek,Octa Core,3.35,8.0,128,5500.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+realme,Realme 14 Pro Plus 5G,27999,83,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,128,6000.0,80,6.83,1272,2800,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Moto G85 5G (12GB RAM + 256GB),17999,82,Yes,No,No,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,12.0,256,5000.0,33,6.67,1080,2400,120.0,2,1.0,50.0,32.0,Android,1024
+realme,Realme GT 7 Pro 5G,49999,88,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12.0,256,5800.0,120,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo V40 Pro,39799,87,Yes,No,No,Dimensity 9200 Plus,mediatek,Octa Core,3.35,8.0,256,5500.0,80,6.78,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+motorola,Motorola Moto G05,7286,69,No,Yes,No,Helio G81 Ultra,mediatek,Octa Core,2.0,4.0,64,5200.0,18,6.67,720,1604,90.0,1,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi 15,64998,90,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12.0,512,5240.0,90,6.36,1200,2670,120.0,3,1.0,50.0,32.0,Android,0
+google,Google Pixel 8A,33600,76,Yes,Yes,No,Tensor G3,tensor,Nine Core,3.0,8.0,128,4492.0,0,6.1,1080,2400,120.0,2,1.0,64.0,13.0,Android,0
+realme,Realme C12,3500,64,No,No,No,Helio G35,mediatek,Octa Core,2.3,3.0,32,6000.0,-1,6.52,720,1600,60.0,3,1.0,13.0,5.0,Android,256
+lava,Lava Play Ultra 5G (8GB+128GB),16499,80,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,5000.0,33,6.67,1080,1920,120.0,2,1.0,64.0,13.0,Android,1024
+vivo,Vivo T4 Lite 5G (8GB RAM +256GB),12999,78,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,6000.0,15,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,2048
+cmf,CMF Phone 2 Pro 5G (8GB RAM + 256GB),19332,84,Yes,No,No,Dimensity 7300 Pro,mediatek,Octa Core,2.5,8.0,256,5000.0,33,6.77,1080,2392,120.0,3,1.0,50.0,16.0,Android,2048
+oppo,Oppo K13 Turbo Pro (12GB+256GB),39999,83,Yes,No,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12.0,256,7000.0,80,6.8,1280,2800,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme P3 5G (8GB RAM + 256GB),18499,81,Yes,Yes,No,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8.0,256,6000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+iqoo,iQOO Neo 10R (12GB RAM + 256GB),27832,82,Yes,No,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,256,6400.0,80,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+infinix,Infinix Hot 60 5G,10499,74,Yes,No,No,Dimensity 7020,mediatek,Octa Core,2.2,6.0,128,5200.0,18,6.7,720,1600,120.0,2,1.0,50.0,8.0,Android,2048
+honor,Honor 200,22999,85,Yes,Yes,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,5200.0,100,6.7,1200,2664,120.0,3,1.0,50.0,50.0,Android,0
+infinix,Infinix Zero 30 5G (12GB RAM + 256GB),21999,86,Yes,Yes,No,Dimensity 8020,mediatek,Octa Core,2.6,12.0,256,5000.0,68,6.78,1080,2400,144.0,3,1.0,108.0,50.0,Android,0
+samsung,Samsung Galaxy S23 Ultra 5G,77190,91,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,12.0,256,5000.0,45,6.8,1440,3088,120.0,4,1.0,200.0,12.0,Android,0
+realme,Realme C21 (4GB RAM + 64GB),4000,64,No,No,No,Helio G35,mediatek,Octa Core,2.3,4.0,64,5000.0,-1,6.5,1600,720,60.0,3,1.0,13.0,5.0,Android,256
+poco,Poco F7 5G (12GB RAM + 512GB),33999,84,Yes,Yes,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12.0,512,7550.0,90,6.83,1280,2772,120.0,2,1.0,50.0,20.0,Android,0
+infinix,Infinix Note 50s 5G (6GB RAM + 128GB),14999,77,Yes,No,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,6.0,128,5500.0,45,6.78,1080,2436,144.0,2,1.0,64.0,13.0,Android,0
+oppo,OPPO Reno 14 5G (12GB RAM + 256GB),39998,87,Yes,No,Yes,Dimensity 8350,mediatek,Octa Core,3.35,12.0,256,6000.0,80,6.59,1256,2760,120.0,3,1.0,50.0,50.0,Android,0
+ai+,Ai+ Nova 5G,8499,67,Yes,No,No,Unisoc T8200,unisoc,Octa Core,,6.0,128,5000.0,18,6.75,720,1600,120.0,2,1.0,50.0,5.0,Android,1024
+realme,Realme Narzo 80 Lite 5G,11899,71,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,15,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+iqoo,iQOO Neo 10 (12GB RAM + 256GB),35998,85,Yes,Yes,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12.0,256,7000.0,120,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo T4 5G (8GB RAM + 256GB),23888,80,Yes,No,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,256,7300.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+apple,Apple iPhone 16e,53499,83,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,128,4005.0,0,6.1,1170,2532,60.0,1,1.0,48.0,12.0,iOS,0
+poco,Poco M7 Pro 5G (8GB RAM + 256GB),15290,80,Yes,No,Yes,Dimensity 7025 Ultra,mediatek,Octa Core,2.5,8.0,256,5110.0,45,6.67,1080,2400,120.0,2,1.0,50.0,20.0,Android,1024
+vivo,Vivo Y29 5G,13499,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5500.0,44,6.68,720,1608,120.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy A06 5G,9190,71,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,25,6.7,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y39 5G,15999,74,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,128,6500.0,44,6.68,720,1608,120.0,2,1.0,50.0,8.0,Android,0
+realme,Realme GT 7,39999,88,Yes,Yes,Yes,Dimensity 9400e,mediatek,Octa Core,3.4,8.0,256,7000.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy Z Fold 7,158999,95,Yes,Yes,No,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12.0,256,4400.0,25,8.0,1968,2184,120.0,3,2.0,200.0,10.0,Android,0
+vivo,Vivo X200 5G,65999,89,Yes,Yes,Yes,Dimensity 9400,mediatek,Octa Core,3.63,12.0,256,5800.0,90,6.67,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Edge 50 Fusion (12GB RAM + 256GB),21939,84,Yes,Yes,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12.0,256,5000.0,68,6.67,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+oneplus,OnePlus Nord CE 4 5G (8GB RAM + 256GB),24435,81,Yes,No,Yes,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,5500.0,100,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,1024
+oppo,OPPO Reno 12 5G,24000,82,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+lava,Lava Agni 3 5G,15299,81,Yes,No,No,Dimensity 7300X,mediatek,Octa Core,2.5,8.0,128,5000.0,66,6.78,1200,2652,120.0,3,1.0,50.0,16.0,Android,0
+oppo,Oppo K13 Turbo (8GB RAM + 256GB),29999,81,Yes,No,Yes,Dimensity 8450,mediatek,Octa Core,3.25,8.0,256,7000.0,80,6.8,1280,2800,120.0,2,1.0,50.0,16.0,Android,0
+oneplus,OnePlus Nord 4 5G,27499,83,Yes,Yes,Yes,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,8.0,128,5500.0,100,6.74,1240,2772,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme 15 Pro 5G (12GB RAM + 256GB),34800,86,Yes,No,No,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12.0,256,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+oneplus,OnePlus Nord 5 (12GB RAM + 512GB),37999,86,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,6800.0,80,6.83,1272,2800,144.0,2,1.0,50.0,50.0,Android,0
+iqoo,iQOO Z10 Lite 5G (8GB RAM + 256GB),12998,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,6000.0,15,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,0
+oppo,OPPO Reno 14 Pro 5G (12GB RAM + 512GB),54998,91,Yes,Yes,Yes,Dimensity 8450,mediatek,Octa Core,3.25,12.0,512,6200.0,80,6.83,1272,2800,120.0,3,1.0,50.0,50.0,Android,0
+vivo,Vivo Y400 5G (8GB RAM + 256GB),23999,79,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,256,6000.0,90,6.67,1080,2400,120.0,2,1.0,50.0,32.0,Android,0
+motorola,Motorola Edge 60 Pro (12GB RAM + 256GB),32979,81,Yes,Yes,No,Dimensity 8350 Extreme,mediatek,Octa Core,3.35,12.0,256,6000.0,90,6.7,1220,2712,120.0,3,1.0,50.0,50.0,Android,0
+lava,LAVA Blaze Dragon 5G (6GB RAM + 128GB),10999,74,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5000.0,18,6.74,720,1612,120.0,1,1.0,50.0,8.0,Android,512
+poco,POCO C71,6540,67,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,4.0,64,5200.0,15,6.88,720,1640,120.0,2,1.0,32.0,8.0,Android,2048
+samsung,Samsung Galaxy F16 5G (8GB RAM + 128GB),14499,80,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+nothing,Nothing Phone 3a (8GB RAM + 256GB),25396,84,Yes,Yes,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,256,5000.0,50,6.77,1080,2392,120.0,3,1.0,50.0,32.0,Android,0
+vivo,Vivo V50 5G (8GB RAM + 256GB),34999,84,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,6000.0,90,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 256GB),19999,85,Yes,Yes,Yes,Dimensity 7025 Ultra,mediatek,Octa Core,2.5,8.0,256,5110.0,45,6.67,1080,2400,120.0,3,1.0,50.0,20.0,Android,1024
+samsung,Samsung Galaxy M36 5G,17499,78,Yes,No,No,Exynos 1380,exynos,Octa Core,2.4,6.0,128,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,0
+iqoo,iQOO 13 (16GB RAM + 512GB),59998,90,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16.0,512,6000.0,120,6.82,1440,3168,144.0,3,1.0,50.0,32.0,Android,0
+iqoo,iQOO Z10x 5G (8GB RAM + 256GB),16498,77,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,6500.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,0
+samsung,Samsung Galaxy A16 5G (8GB RAM + 256GB),20499,81,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+realme,Realme P1 Speed 5G,14999,81,Yes,No,No,Dimensity 7300 E,mediatek,Octa Core,2.5,8.0,128,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+oneplus,OnePlus 13 (24GB RAM+ 1TB),84999,93,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,24.0,1024,6000.0,100,6.82,1440,3168,120.0,3,1.0,50.0,32.0,Android,0
+tecno,Tecno Pova 7 5G,14999,76,Yes,Yes,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,128,6000.0,45,6.78,1080,2460,144.0,2,1.0,50.0,13.0,Android,1024
+oppo,Oppo F29,21999,77,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,128,6500.0,45,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,0
+nothing,Nothing Phone 2a Plus,21750,84,Yes,Yes,No,Dimensity 7350 Pro 5G,mediatek,Octa Core,3.0,8.0,256,5000.0,50,6.7,1084,2412,120.0,2,1.0,50.0,50.0,Android,0
+lava,Lava Blaze X 5G,10399,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+google,Google Pixel 10,79999,79,Yes,Yes,No,Tensor G5,tensor,Octa Core,,12.0,256,4970.0,30,6.3,1080,2424,120.0,3,1.0,48.0,10.5,Android,0
+realme,Realme P2 Pro 5G,16999,80,Yes,No,No,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8.0,128,5200.0,80,6.7,1080,2412,120.0,2,1.0,50.0,32.0,Android,0
+motorola,Motorola Edge 50 Ultra 5G,44239,90,Yes,Yes,No,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,4500.0,125,6.7,1220,2712,144.0,3,1.0,64.0,50.0,Android,0
+xiaomi,Xiaomi Redmi 13 5G,11499,78,Yes,No,Yes,Snapdragon 4 Gen 2 AE,snapdragon,Octa Core,2.3,6.0,128,5030.0,33,6.79,1080,2460,120.0,2,1.0,108.0,13.0,Android,1024
+xiaomi,Xiaomi Redmi Note 13 5G,14499,79,Yes,No,Yes,Dimensity 6080,mediatek,Octa Core,2.4,6.0,128,5000.0,33,6.67,1080,2400,120.0,3,1.0,108.0,16.0,Android,1024
+realme,Realme C31 (4GB RAM + 64GB),4000,64,No,No,No,Tiger T612,tiger,Octa Core,1.82,4.0,64,5000.0,-1,6.52,720,1600,60.0,3,1.0,13.0,5.0,Android,1024
+google,Google Pixel 6 Pro,29999,86,Yes,Yes,No,Tensor,tensor,Octa Core,2.8,12.0,128,5003.0,30,6.71,1440,3120,120.0,3,1.0,50.0,11.1,Android,0
+realme,Realme 15 Pro 5G (8GB RAM + 256GB),33998,85,Yes,No,No,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8.0,256,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M36 5G (8GB RAM + 128GB),16899,79,Yes,No,No,Exynos 1380,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,0
+oppo,OPPO Reno 14 5G (12GB RAM + 512GB),42998,88,Yes,No,Yes,Dimensity 8350,mediatek,Octa Core,3.35,12.0,512,6000.0,80,6.59,1256,2760,120.0,3,1.0,50.0,50.0,Android,0
+infinix,Infinix GT 30 5G,19499,79,Yes,No,Yes,Dimensity 7400,mediatek,Octa Core,2.6,8.0,128,5500.0,45,6.78,1224,2720,144.0,2,1.0,64.0,13.0,Android,0
+oppo,OPPO K13x 5G (8GB RAM +128GB),14498,79,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+vivo,Vivo Y400 Pro 5G (8GB RAM + 256GB),25999,80,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,5500.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+iqoo,iQOO Neo 10 (8GB RAM + 256GB),33998,84,Yes,Yes,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8.0,256,7000.0,120,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy F06 5G (4GB RAM + 64GB),8499,70,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,25,6.7,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo T4 5G (12GB RAM + 256GB),25866,81,Yes,No,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12.0,256,7300.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+oppo,Oppo A5x 4G (4GB RAM + 128GB),9999,69,No,No,Yes,Snapdragon 6s 4G Gen1,snapdragon,Octa Core,2.1,4.0,128,6000.0,45,6.67,720,1604,90.0,1,1.0,32.0,5.0,Android,0
+realme,Realme P3 Ultra (8GB RAM + 256GB),26999,81,Yes,No,Yes,Dimensity 8350 Ultra,mediatek,Octa Core,3.35,8.0,256,6000.0,80,6.83,1272,2800,120.0,2,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi A5 4G,6497,67,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,3.0,64,5200.0,15,6.88,720,1650,120.0,1,1.0,32.0,8.0,Android,2048
+oppo,Oppo A5 Pro 5G,17998,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5800.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,0
+samsung,Samsung Galaxy M55s 5G (8GB RAM + 256GB),20999,84,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8.0,256,5000.0,45,6.7,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+motorola,Motorola Moto G45 5G,10999,74,Yes,No,No,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,4.0,128,5000.0,20,6.5,720,1600,120.0,2,1.0,50.0,16.0,Android,1024
+iqoo,iQOO Z9s 5G,22900,81,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,5500.0,44,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi 14C 5G,9498,71,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4.0,64,5160.0,18,6.88,720,1640,120.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme GT 6 5G (16GB RAM + 512GB),32999,88,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,16.0,512,5500.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+poco,Poco M6 Plus 5G,10299,78,Yes,No,Yes,Snapdragon 4 Gen2 AE,snapdragon,Octa Core,2.3,6.0,128,5030.0,33,6.79,1080,2460,120.0,2,1.0,108.0,13.0,Android,1024
+samsung,Samsung Galaxy A35 5G (8GB RAM + 256GB),21999,83,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,256,5000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+realme,Realme Narzo 80 Pro 5G,18999,80,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,128,6000.0,80,6.72,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy F16 5G,12409,75,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+realme,Realme 13 Pro Plus 5G,23999,84,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,256,5200.0,80,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy F55 5G,17860,83,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8.0,128,5000.0,45,6.7,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+samsung,Samsung Galaxy S24 (8GB RAM + 128GB),43999,86,Yes,Yes,No,Exynos 2400,exynos,Deca Core,3.2,8.0,128,4000.0,25,6.2,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+motorola,Motorola Edge 50 5G,22250,85,Yes,Yes,No,Snapdragon 7 Gen1 AE,snapdragon,Octa Core,2.5,8.0,256,5000.0,68,6.67,1220,2712,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Edge 20 Fusion 5G,15999,85,Yes,Yes,No,Dimensity 800U,mediatek,Octa Core,2.4,6.0,128,5000.0,30,6.67,1080,2400,90.0,3,1.0,108.0,32.0,Android,1024
+vivo,Vivo T4R 5G (12GB RAM + 256GB),23499,82,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,12.0,256,5700.0,44,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+iqoo,iQOO Z10R (8GB RAM + 256GB),21498,81,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,256,5700.0,44,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+realme,Realme Narzo 80 Lite 4G,7299,64,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,4.0,128,6300.0,15,6.74,720,1600,90.0,1,1.0,13.0,5.0,Android,0
+samsung,Samsung Galaxy F36 5G (8GB RAM + 128GB),18999,82,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,2048
+xiaomi,Xiaomi Redmi A4 5G (6GB RAM + 128GB),9799,72,Yes,No,No,Snapdragon 4s Gen2,snapdragon,Octa Core,2.0,6.0,128,5160.0,18,6.88,720,1640,120.0,2,1.0,50.0,5.0,Android,1024
+iqoo,iQOO Z10 Lite 5G (6GB RAM + 128GB),10998,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,15,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,0
+tecno,Tecno Pova Curve 5G,15999,78,Yes,Yes,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,6.0,128,5500.0,45,6.78,1080,2436,144.0,2,1.0,64.0,13.0,Android,0
+vivo,Vivo Y19 5G (4GB RAM + 128GB),11499,69,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5500.0,15,6.74,720,1600,90.0,2,1.0,13.0,5.0,Android,2048
+iqoo,iQOO Z10x 5G (8GB RAM + 128GB),14998,76,Yes,No,Yes,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,6500.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,0
+lava,Lava Bold 5G,11999,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+realme,Realme P3 5G (8GB RAM + 128GB),17399,80,Yes,Yes,No,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8.0,128,6000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy M06 (6GB RAM + 128GB),10999,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,25,6.74,720,1600,90.0,2,1.0,50.0,8.0,Android,1536
+realme,Realme P3 Pro 5G (8GB RAM +256GB),24999,80,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,256,6000.0,80,6.83,1272,2800,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy S25 Ultra (12GB RAM + 512GB),122890,93,Yes,Yes,No,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12.0,512,5000.0,45,6.9,1440,3120,120.0,4,1.0,200.0,12.0,Android,0
+poco,Poco X7 Pro (12GB RAM + 256GB),25450,84,Yes,Yes,Yes,Dimensity 8400 Ultra,mediatek,Octa Core,3.25,12.0,256,6550.0,90,6.67,1220,2712,120.0,2,1.0,50.0,20.0,Android,0
+xiaomi,Xiaomi Redmi Note 14 Pro Plus (12GB RAM + 512GB),31799,85,Yes,Yes,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12.0,512,6200.0,90,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+vivo,Vivo V40e 5G,24999,81,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+realme,Realme Narzo 80x 5G,12999,76,Yes,No,No,Dimensity 6400,mediatek,Octa Core,2.5,6.0,128,6000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,0
+vivo,Vivo V40 5G,34999,83,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,128,5500.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M55 (12GB RAM + 256GB),23610,86,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,12.0,256,5000.0,45,6.67,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+samsung,Samsung Galaxy A55 5G (8GB RAM + 256GB),28999,85,Yes,Yes,No,Exynos 1480,exynos,Octa Core,2.7,8.0,256,5000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,32.0,Android,1024
+realme,Realme 12 Plus 5G (8GB RAM + 256GB),15999,82,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,256,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,2048
+xiaomi,Xiaomi Redmi Note 13 Pro Plus (12GB RAM + 256GB),26998,85,Yes,Yes,Yes,Dimensity 7200 Ultra,mediatek,Octa Core,2.8,12.0,256,5000.0,120,6.67,1220,2712,120.0,3,1.0,200.0,16.0,Android,0
+realme,Realme C67 5G,9750,74,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,5000.0,33,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+oppo,OPPO Reno 12 Pro 5G,31500,87,Yes,Yes,Yes,Dimensity 7300 Energy,mediatek,Octa Core,2.5,12.0,256,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M56 5G,24963,79,Yes,No,No,Exynos 1480,exynos,Octa Core,2.7,8.0,128,5000.0,45,6.74,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+samsung,Samsung Galaxy M16 5G,11499,75,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+apple,Apple iPhone 16 Plus,81900,82,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,128,4674.0,0,6.7,1290,2796,60.0,2,1.0,48.0,12.0,iOS,0
+realme,Realme C55 (8GB RAM + 128GB),8808,77,No,No,No,Helio G88,mediatek,Octa Core,2.0,8.0,128,5000.0,33,6.72,1080,2400,90.0,2,1.0,64.0,8.0,Android,1024
+google,Google Pixel 9 Pro,89999,90,Yes,Yes,No,Tensor G4,tensor,Octa Core,3.1,16.0,256,4700.0,27,6.3,1280,2856,120.0,3,1.0,50.0,42.0,Android,0
+apple,Apple iPhone 15 Plus,72499,82,Yes,Yes,No,Bionic A16,bionic,Hexa Core,3.46,6.0,128,4383.0,0,6.7,1290,2796,60.0,2,1.0,48.0,12.0,iOS,0
+oneplus,OnePlus 12 5G,53990,90,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,256,5400.0,100,6.82,1440,3168,120.0,3,1.0,64.0,32.0,Android,0
+vivo,Vivo T3 Pro 5G,22999,80,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,128,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+vivo,Vivo V30 5G,25499,82,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,128,5000.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy S23 5G,46500,85,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,8.0,128,3900.0,25,6.1,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+google,Google Pixel 6A,41219,70,Yes,Yes,No,Google  Tensor,tensor,Octa Core,,6.0,128,4410.0,0,6.14,1080,2400,60.0,2,1.0,12.2,8.0,Android,0
+apple,Apple iPhone 14,53990,79,Yes,Yes,No,Bionic A15,bionic,Hexa Core,3.22,6.0,128,3279.0,0,6.1,1170,2532,60.0,2,1.0,12.0,12.0,iOS,0
+motorola,Motorola Moto G60,11599,82,No,Yes,No,Snapdragon  732G,snapdragon,Octa Core,2.3,6.0,128,6000.0,20,6.78,1080,2460,120.0,3,1.0,108.0,32.0,Android,1024
+iqoo,iQOO Z10R (12GB RAM + 256GB),23498,82,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,12.0,256,5700.0,44,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy Z Fold 7 (16GB RAM + 1TB),216999,97,Yes,Yes,No,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,16.0,1024,4400.0,25,8.0,1968,2184,120.0,3,2.0,200.0,10.0,Android,0
+vivo,Vivo X100 Pro (16GB RAM + 512GB),59999,91,Yes,Yes,Yes,Dimensity 9300,mediatek,Octa Core,3.25,16.0,512,5400.0,100,6.78,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+infinix,Infinix Smart 10,6799,64,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,4.0,64,5000.0,15,6.67,720,1600,120.0,1,1.0,8.0,8.0,Android,0
+infinix,Infinix Note 50s 5G (8GB RAM + 256GB),17999,79,Yes,No,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,256,5500.0,45,6.78,1080,2436,144.0,2,1.0,64.0,13.0,Android,0
+realme,Realme P3 Ultra (12GB RAM + 256GB),29999,82,Yes,No,Yes,Dimensity 8350 Ultra,mediatek,Octa Core,3.35,12.0,256,6000.0,80,6.83,1272,2800,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy S25 (12GB RAM + 128GB),68999,87,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,128,4000.0,25,6.2,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+poco,Poco M7 5G (8GB RAM + 128GB),10499,77,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,128,5160.0,18,6.88,720,1640,120.0,1,1.0,50.0,8.0,Android,1024
+nothing,Nothing Phone 3a Pro (12GB RAM + 256GB),32599,87,Yes,Yes,No,Snapdragon 7s Gen 3,snapdragon,Octa Core,2.5,12.0,256,5000.0,50,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+infinix,Infinix GT 30 5G (8GB RAM+ 256GB),20999,80,Yes,No,Yes,Dimensity 7400,mediatek,Octa Core,2.6,8.0,256,5500.0,45,6.78,1224,2720,144.0,2,1.0,64.0,13.0,Android,0
+realme,Realme P3x 5G (8GB RAM + 128GB),13998,79,Yes,No,No,Dimensity 6400,mediatek,Octa Core,2.5,8.0,128,6000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,0
+realme,Realme 14T 5G,17999,80,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,6000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+samsung,Samsung Galaxy S25 Ultra (12GB RAM + 1TB),165999,94,Yes,Yes,No,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12.0,1024,5000.0,45,6.9,1440,3120,120.0,4,1.0,200.0,12.0,Android,0
+oppo,Oppo A5 (2025),15498,76,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+oppo,OPPO Reno 13 5G (8GB+256GB),37999,85,Yes,Yes,Yes,Dimensity 8350,mediatek,Octa Core,3.35,8.0,256,5600.0,80,6.59,1256,2760,120.0,3,1.0,50.0,50.0,Android,0
+oneplus,OnePlus 13R (16GB RAM + 512GB),47999,88,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16.0,512,6000.0,80,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+realme,Realme GT 7T,32999,85,Yes,Yes,Yes,Dimensity 8400-MAX,mediatek,Octa Core,3.25,8.0,256,7000.0,120,6.8,1280,2800,120.0,2,1.0,50.0,32.0,Android,0
+tecno,Tecno Pop 9 5G (8GB RAM + 128GB),9599,77,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,18,6.67,720,1612,120.0,2,1.0,48.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi Note 14 Pro Plus (8GB RAM + 256GB),27980,84,Yes,Yes,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,256,6200.0,90,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+realme,Realme 14x 5G,13989,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,0
+realme,Realme P1 Speed 5G (12GB RAM + 256GB),16600,82,Yes,No,No,Dimensity 7300 E,mediatek,Octa Core,2.5,12.0,256,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+google,Google Pixel 10 Pro XL,124999,84,Yes,Yes,No,Tensor G5,tensor,Octa Core,,16.0,256,5200.0,45,6.8,1344,2992,120.0,3,1.0,50.0,42.0,Android,0
+infinix,Infinix Note 40 Pro Plus Racing Edition,21999,86,Yes,Yes,Yes,Dimensity 7020,mediatek,Octa Core,2.2,12.0,256,4600.0,100,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,0
+infinix,Infinix Note 40X 5G (12GB RAM +256GB),15999,84,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,12.0,256,5000.0,18,6.78,1080,2406,120.0,3,1.0,108.0,8.0,Android,1024
+samsung,Samsung Galaxy F05,6500,69,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,25,6.74,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme GT 6 5G (12GB RAM + 256GB),28999,87,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,256,5500.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+xiaomi,Xiaomi 14 Civi (12GB RAM + 512GB),38999,88,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,4700.0,67,6.55,1236,2750,120.0,3,2.0,50.0,32.0,Android,0
+poco,Poco F6 5G (12GB RAM +256GB),23999,83,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,256,5000.0,90,6.67,1220,2712,120.0,2,1.0,50.0,20.0,Android,0
+oppo,Oppo Find X8 Pro 5G,81999,93,Yes,Yes,Yes,Dimensity 9400,mediatek,Octa Core,3.63,16.0,512,5910.0,80,6.78,1264,2780,120.0,4,1.0,50.0,32.0,Android,0
+oppo,OPPO Reno 13 Pro 5G,39999,89,Yes,Yes,Yes,Dimensity 8350,mediatek,Octa Core,3.35,12.0,256,5800.0,80,6.83,1272,2800,120.0,3,1.0,50.0,50.0,Android,0
+motorola,Motorola Moto G64 5G (12GB RAM + 256GB),16999,83,Yes,No,No,Dimensity 7025,mediatek,Octa Core,2.5,12.0,256,6000.0,33,6.5,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+realme,Realme P1 Pro 5G,15000,78,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,128,5000.0,45,6.7,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+tecno,Tecno Pova 7 Pro 5G,18999,79,Yes,Yes,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,128,6000.0,45,6.78,1224,2720,144.0,2,1.0,64.0,13.0,Android,0
+honor,Honor 200 Pro,38000,89,Yes,Yes,No,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,5200.0,100,6.78,1224,2700,120.0,3,2.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy S24 Ultra (12GB RAM + 512GB),129999,93,Yes,Yes,No,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,512,5000.0,45,6.8,1440,3120,120.0,4,1.0,200.0,12.0,Android,0
+nothing,Nothing Phone 2a,21475,83,Yes,Yes,No,Dimensity 7200 Pro,mediatek,Octa Core,2.8,8.0,128,5000.0,45,6.7,1084,2412,120.0,2,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy A15 5G,17999,79,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,5000.0,25,6.5,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+vivo,Vivo T3 5G,17999,80,Yes,No,No,Dimensity 7200,mediatek,Octa Core,2.8,8.0,128,5000.0,44,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,1024
+motorola,Motorola Edge 50 Pro 5G,27990,85,Yes,Yes,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,4500.0,68,6.7,1220,2712,144.0,3,1.0,50.0,50.0,Android,0
+vivo,Vivo T3x 5G,12499,74,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,4.0,128,6000.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy S25 Plus,99999,87,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,256,4900.0,45,6.7,1440,3120,120.0,3,1.0,50.0,12.0,Android,0
+google,Google Pixel 8 Pro,57999,79,Yes,Yes,No,Tensor G3,tensor,Nine Core,3.0,12.0,128,5050.0,30,6.7,1344,2992,120.0,3,1.0,50.0,10.5,Android,0
+realme,Realme C30,3500,57,No,No,No,Tiger T612,tiger,Octa Core,1.82,2.0,32,5000.0,-1,6.5,720,1600,60.0,1,1.0,8.0,5.0,Android,1024
+google,Google Pixel 7A,26999,84,Yes,Yes,No,Tensor G2,tensor,Octa Core,2.85,8.0,128,4385.0,18,6.1,1080,2400,90.0,2,1.0,64.0,13.0,Android,0
+samsung,Samsung Galaxy S23 FE 5G,34999,81,Yes,Yes,No,Exynos 2200,exynos,Octa Core,2.8,8.0,128,4500.0,25,6.4,1080,2340,120.0,3,1.0,50.0,10.0,Android,0
+realme,Realme GT Neo 3T,16000,77,Yes,No,No,Snapdragon 870,snapdragon,Octa Core,3.2,6.0,128,5000.0,80,6.62,1080,2400,120.0,3,1.0,64.0,16.0,Android,0
+google,Google Pixel 7 Pro 5G,34999,87,Yes,Yes,No,Google  Tensor G2,tensor,Octa Core,2.85,12.0,128,5000.0,30,6.7,1440,3120,120.0,3,1.0,50.0,10.8,Android,0
+oppo,Oppo A5x 5G (6GB RAM + 128GB),14499,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,45,6.67,720,1604,120.0,1,1.0,32.0,5.0,Android,0
+realme,Realme 15 5G (8GB RAM + 256GB),27990,75,Yes,No,No,Dimensity 7300 Plus,mediatek,Octa Core,,8.0,256,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+ai+,Ai+ Pulse (6GB RAM +128GB),6999,71,No,No,No,Unisoc T615,unisoc,Octa Core,1.8,6.0,128,5000.0,10,6.75,720,1600,90.0,1,1.0,50.0,5.0,Android,1024
+ai+,Ai+ Nova 5G (8GB RAM + 128GB),9999,68,Yes,No,No,Unisoc T8200,unisoc,Octa Core,,8.0,128,5000.0,18,6.75,720,1600,120.0,2,1.0,50.0,5.0,Android,1024
+nothing,Nothing Phone 3 (16GB RAM + 512GB),66830,91,Yes,Yes,No,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,16.0,512,5500.0,65,6.67,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+tecno,Tecno Spark Go 2,6999,64,No,No,Yes,Unisoc T7250,unisoc,Octa Core,1.8,4.0,64,5000.0,15,6.67,720,1600,120.0,1,1.0,13.0,8.0,Android,1024
+realme,Realme Narzo 80 Lite (6GB RAM + 128GB),11499,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,15,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+oneplus,OnePlus 13s (12GB RAM + 512GB),59998,88,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12.0,512,5850.0,80,6.32,1216,2640,120.0,2,1.0,50.0,32.0,Android,0
+iqoo,iQOO Neo 10 (16GB RAM + 512GB),40998,87,Yes,Yes,Yes,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,16.0,512,7000.0,120,6.78,1260,2800,144.0,2,1.0,50.0,32.0,Android,0
+poco,Poco C75 5G (4GB RAM + 128GB),8499,71,Yes,No,No,Snapdragon 4s Gen2,snapdragon,Octa Core,2.0,4.0,128,5160.0,18,6.88,720,1650,120.0,2,1.0,50.0,5.0,Android,1024
+iqoo,iQOO Z10 5G (8GB RAM + 256GB),23998,80,Yes,No,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,256,7300.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo Y19 5G,10399,68,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5500.0,15,6.74,720,1600,90.0,2,1.0,13.0,5.0,Android,2048
+poco,POCO C71 (6GB RAM + 128GB),7199,71,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,6.0,128,5200.0,15,6.88,720,1640,120.0,2,1.0,32.0,8.0,Android,2048
+infinix,Infinix Note 50X 5G (8GB RAM + 128 GB),12250,76,Yes,No,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,128,5500.0,45,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,0
+samsung,Samsung Galaxy A26 (8GB RAM + 256GB),25997,83,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,256,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,2048
+vivo,Vivo V50e (8GB RAM +256GB),27999,82,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,5600.0,90,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M16 5G (6GB RAM + 128GB),12999,78,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+samsung,Samsung Galaxy A56 5G (12GB RAM + 256GB),44999,84,Yes,Yes,No,Exynos 1580,exynos,Octa Core,2.9,12.0,256,5000.0,45,6.7,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+samsung,Samsung Galaxy A36 5G (8GB RAM + 256GB),33999,82,Yes,Yes,No,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8.0,256,5000.0,45,6.7,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+vivo,Vivo V50 5G (12GB RAM + 512GB),38999,86,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,512,6000.0,90,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+poco,Poco X7 5G (8GB RAM + 256GB),18700,82,Yes,Yes,Yes,Dimensity 7300 Ultra,mediatek,Octa Core,2.5,8.0,256,5500.0,45,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+oneplus,OnePlus 13 (16GB RAM+ 512GB),71999,92,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16.0,512,6000.0,100,6.82,1440,3168,120.0,3,1.0,50.0,32.0,Android,0
+xiaomi,Xiaomi Redmi 14C 5G (6GB RAM + 128GB),11498,74,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5160.0,18,6.88,720,1640,120.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y29 5G (6GB+128GB),14499,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5500.0,44,6.68,720,1608,120.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy A16 5G (6GB RAM + 128GB),15999,78,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+xiaomi,Xiaomi Redmi A4 5G (4GB RAM + 128GB),8798,71,Yes,No,No,Snapdragon 4s Gen2,snapdragon,Octa Core,2.0,4.0,128,5160.0,18,6.88,720,1640,120.0,2,1.0,50.0,5.0,Android,1024
+realme,Realme P2 Pro (12GB RAM + 256GB),18999,82,Yes,No,No,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,12.0,256,5200.0,80,6.7,1080,2412,120.0,2,1.0,50.0,32.0,Android,0
+apple,Apple iPhone 16 (256GB),82900,85,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,256,3561.0,0,6.1,1179,2556,60.0,2,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 16 Pro (256GB),121900,88,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,256,3582.0,0,6.3,1206,2622,120.0,3,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 16 Pro Max (1TB),170900,89,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,1024,4685.0,0,6.9,1320,2868,120.0,3,1.0,48.0,12.0,iOS,0
+tecno,Tecno Pova 6 Neo 5G,11999,74,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,18,6.67,720,1600,120.0,2,1.0,108.0,8.0,Android,0
+vivo,Vivo T3 Ultra (8GB RAM + 256GB),29999,83,Yes,No,No,Dimensity 9200 Plus,mediatek,Octa Core,3.35,8.0,256,5500.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M35 5G (8GB RAM + 128GB),15776,81,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,128,6000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+hmd,HMD Crest Max,11849,81,Yes,No,No,Unisoc T760,unisoc,Octa Core,2.2,8.0,256,5000.0,33,6.67,1080,2400,120.0,3,1.0,64.0,50.0,Android,256
+oneplus,OnePlus Nord 4 5G (8GB RAM + 256GB),27999,83,Yes,Yes,Yes,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,8.0,256,5500.0,100,6.74,1240,2772,120.0,2,1.0,50.0,16.0,Android,0
+lava,Lava Blaze X 5G (6GB RAM + 128GB),11999,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+samsung,Samsung Galaxy F06 5G,9699,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,25,6.7,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y300 5G,20999,81,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,128,5000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,32.0,Android,2048
+oppo,OPPO A3x 5G,11990,67,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5100.0,45,6.67,720,1604,120.0,1,1.0,8.0,5.0,Android,0
+oppo,Oppo Find X8 5G,69999,90,Yes,Yes,Yes,Dimensity 9400,mediatek,Octa Core,3.63,12.0,256,5630.0,80,6.59,1256,2760,120.0,3,1.0,50.0,32.0,Android,0
+iqoo,iQOO Z9x (6GB RAM + 128GB),13468,77,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,6.0,128,6000.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,1024
+oppo,OPPO K12x,12988,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5100.0,45,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,1024
+cmf,CMF Phone (1),15888,78,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,6.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+motorola,Motorola Edge 50 Pro (12GB RAM + 256GB),26489,86,Yes,Yes,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,256,4500.0,125,6.7,1220,2712,144.0,3,1.0,50.0,50.0,Android,0
+google,Google Pixel 9 Pro XL,104999,91,Yes,Yes,No,Tensor G4,tensor,Octa Core,3.1,16.0,256,5060.0,37,6.8,1344,2992,120.0,3,1.0,50.0,42.0,Android,0
+oneplus,OnePlus 12R (8GB RAM + 256GB),39990,84,Yes,Yes,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,8.0,256,5500.0,100,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy A55 5G (12GB RAM + 256GB),33999,86,Yes,Yes,No,Exynos 1480,exynos,Octa Core,2.7,12.0,256,5000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,32.0,Android,1024
+infinix,Infinix Note 40 Pro 5G,18999,84,Yes,Yes,Yes,Dimensity 7020,mediatek,Octa Core,2.2,8.0,256,5000.0,45,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,0
+infinix,Infinix GT 20 Pro,24999,85,Yes,Yes,Yes,Dimensity 8200 Ultimate,mediatek,Octa Core,3.1,8.0,256,5000.0,45,6.78,1080,2436,144.0,3,1.0,108.0,32.0,Android,0
+apple,Apple iPhone 15 (256GB),70900,82,Yes,Yes,No,Bionic A16,bionic,Hexa Core,3.46,6.0,256,3349.0,0,6.1,1179,2556,60.0,2,1.0,48.0,12.0,iOS,0
+infinix,Infinix Note 30 5G (8GB RAM + 256GB),15999,85,Yes,Yes,No,Dimensity 6080,mediatek,Octa Core,2.4,8.0,256,5000.0,45,6.78,1080,2460,120.0,3,1.0,108.0,16.0,Android,2048
+oppo,OPPO Reno 11,25600,86,Yes,Yes,Yes,Dimensity 7050,mediatek,Octa Core,2.6,8.0,128,5000.0,67,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,2048
+infinix,Infinix GT 10 Pro,18799,86,Yes,No,No,Dimensity  8050,mediatek,Octa Core,3.0,8.0,256,5000.0,45,6.67,1080,2460,120.0,3,1.0,108.0,32.0,Android,1024
+google,Google Pixel 6 Pro (12GB RAM + 256GB),33999,87,Yes,Yes,No,Tensor,tensor,Octa Core,2.8,12.0,256,5003.0,30,6.71,1440,3120,120.0,3,1.0,50.0,11.1,Android,0
+google,Google Pixel 8 5G,44999,75,Yes,Yes,No,Tensor G3,tensor,Nine Core,3.0,8.0,128,4575.0,30,6.2,1080,2400,120.0,2,1.0,50.0,10.5,Android,0
+oneplus,OnePlus 11 5G,38999,85,Yes,Yes,No,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,8.0,128,5000.0,100,6.7,1440,3216,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo V25 5G,16998,81,Yes,No,No,Dimensity  900,mediatek,Octa Core,2.0,8.0,128,4500.0,44,6.44,1080,2408,90.0,3,1.0,64.0,50.0,Android,1024
+realme,Realme C31,3750,61,No,No,No,Tiger T612,tiger,Octa Core,1.82,3.0,32,5000.0,-1,6.52,720,1600,60.0,3,1.0,13.0,5.0,Android,1024
+oneplus,OnePlus Nord 3 5G,22994,82,Yes,Yes,Yes,Dimensity 9000,mediatek,Octa Core,3.05,8.0,128,5000.0,80,6.74,1240,2772,120.0,3,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy S22 Ultra 5G,74999,92,Yes,Yes,No,Snapdragon 8 Gen1,snapdragon,Octa Core,3.0,12.0,256,5000.0,45,6.8,1440,3080,120.0,4,1.0,108.0,40.0,Android,0
+realme,Realme 15 Pro 5G (12GB RAM + 512GB),41099,87,Yes,No,No,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12.0,512,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+realme,Realme Narzo 80 Lite 4G (6GB RAM + 128GB),8299,67,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,6.0,128,6300.0,15,6.74,720,1600,90.0,1,1.0,13.0,5.0,Android,0
+lava,LAVA Blaze Dragon 5G,9999,71,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4.0,128,5000.0,18,6.74,720,1612,120.0,1,1.0,50.0,8.0,Android,512
+tecno,Tecno Pova 7 Pro 5G (8GB RAM + 256GB),19999,80,Yes,Yes,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,256,6000.0,45,6.78,1224,2720,144.0,2,1.0,64.0,13.0,Android,0
+tecno,Tecno Pova 7 5G (8GB RAM + 256GB),15999,77,Yes,Yes,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,256,6000.0,45,6.78,1080,2460,144.0,2,1.0,50.0,13.0,Android,1024
+samsung,Samsung Galaxy M36 5G (8GB RAM + 256GB),21999,80,Yes,No,No,Exynos 1380,exynos,Octa Core,2.4,8.0,256,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,0
+oppo,OPPO A5 5G (8GB RAM + 128GB),16998,78,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+vivo,Vivo T4 Ultra (12GB RAM+ 256GB),38990,86,Yes,Yes,No,Dimensity 9300 Plus,mediatek,Octa Core,3.25,12.0,256,5500.0,90,6.67,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+lava,Lava Storm Lite 5G,8499,70,Yes,No,No,Dimensity 6400,mediatek,Octa Core,2.5,4.0,64,5000.0,0,6.75,720,1600,120.0,2,1.0,50.0,5.0,Android,1024
+realme,Realme C71,7699,64,No,No,No,Unisoc UMS9230E,unisoc,Octa Core,1.8,4.0,64,6300.0,15,6.75,720,1600,90.0,1,1.0,13.0,5.0,Android,0
+tecno,Tecno Pova Curve 5G (8GB RAM + 128GB),16999,79,Yes,Yes,Yes,Dimensity 7300 Ultimate,mediatek,Octa Core,2.5,8.0,128,5500.0,45,6.78,1080,2436,144.0,2,1.0,64.0,13.0,Android,0
+realme,Realme GT 7T (12GB RAM + 256GB),34999,86,Yes,Yes,Yes,Dimensity 8400-MAX,mediatek,Octa Core,3.25,12.0,256,7000.0,120,6.8,1280,2800,120.0,2,1.0,50.0,32.0,Android,0
+lava,Lava Bold N1 Pro,6798,68,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,4.0,128,5000.0,18,6.67,1600,720,120.0,3,1.0,50.0,5.0,Android,256
+oppo,Oppo A5x 5G,12999,69,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,45,6.67,720,1604,120.0,1,1.0,32.0,5.0,Android,0
+realme,Realme GT 7 Dream Edition,49999,89,Yes,Yes,Yes,Dimensity 9400e,mediatek,Octa Core,3.4,16.0,512,7000.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+lava,Lava Shark 5G,7999,58,Yes,No,No,Unisoc T765,unisoc,Octa Core,,4.0,64,5000.0,0,6.75,720,1600,90.0,1,1.0,13.0,5.0,Android,1024
+vivo,Vivo Y19 5G (6GB RAM + 128GB),12999,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5500.0,15,6.74,720,1600,90.0,2,1.0,13.0,5.0,Android,2048
+xiaomi,Xiaomi Redmi A5 4G (4GB RAM + 128GB),7455,70,No,No,No,Unisoc T7250,unisoc,Octa Core,1.8,4.0,128,5200.0,15,6.88,720,1650,120.0,1,1.0,32.0,8.0,Android,2048
+iqoo,iQOO Z10 5G (12GB RAM + 256GB),25998,81,Yes,No,Yes,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12.0,256,7300.0,90,6.77,1080,2392,120.0,2,1.0,50.0,32.0,Android,0
+realme,Realme Narzo 80x 5G (8GB RAM + 128GB),13999,78,Yes,No,No,Dimensity 6400,mediatek,Octa Core,2.5,8.0,128,6000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,0
+realme,Realme C73,10199,70,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,6000.0,15,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+oppo,Oppo F29 Pro (12GB RAM + 256GB),29999,80,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,12.0,256,6000.0,80,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,0
+oppo,Oppo F29 (8GB RAM + 256GB),23999,77,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,256,6500.0,45,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,0
+nothing,Nothing Phone 3a Pro (8GB RAM + 256GB),29219,86,Yes,Yes,No,Snapdragon 7s Gen 3,snapdragon,Octa Core,2.5,8.0,256,5000.0,50,6.77,1080,2392,120.0,3,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy A56 5G (8GB RAM + 256GB),41999,83,Yes,Yes,No,Exynos 1580,exynos,Octa Core,2.9,8.0,256,5000.0,45,6.7,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+samsung,Samsung Galaxy A06 5G (6GB RAM + 128GB),12999,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,25,6.7,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy A06 5G (4GB RAM + 128GB),9951,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,25,6.7,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme P3 Pro 5G (12GB RAM +256GB),26999,81,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12.0,256,6000.0,80,6.83,1272,2800,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy F06 5G (6GB RAM + 128GB),11896,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,25,6.7,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy S25 Edge,104999,89,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,256,3900.0,25,6.7,1440,3120,120.0,2,1.0,200.0,12.0,Android,0
+realme,Realme 14 Pro Plus (8GB RAM + 256GB),29999,84,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8.0,256,6000.0,80,6.83,1272,2800,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Razr 60 Ultra,89998,93,Yes,Yes,No,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16.0,512,4700.0,68,6.96,1224,2992,165.0,2,1.0,50.0,50.0,Android,0
+xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 128GB),17999,84,Yes,Yes,Yes,Dimensity 7025 Ultra,mediatek,Octa Core,2.5,8.0,128,5110.0,45,6.67,1080,2400,120.0,3,1.0,50.0,20.0,Android,1024
+xiaomi,Xiaomi Redmi Note 14 Pro (8GB RAM + 256GB),23188,82,Yes,Yes,Yes,Dimensity 7300 Ultra,mediatek,Octa Core,2.5,8.0,256,5500.0,45,6.67,1220,2712,120.0,3,1.0,50.0,20.0,Android,0
+realme,Realme GT 7 Pro (16GB RAM + 512GB),54999,89,Yes,Yes,Yes,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16.0,512,5800.0,120,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+realme,Realme C75 5G,12988,70,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,45,6.67,720,1604,120.0,1,1.0,32.0,8.0,Android,0
+vivo,Vivo Y19e,7999,63,No,No,No,Unisoc T7225,unisoc,Octa Core,1.8,4.0,64,5500.0,15,6.74,720,1600,60.0,2,1.0,13.0,5.0,Android,0
+lava,Lava Agni 3 5G (8GB RAM + 256GB),19999,82,Yes,No,No,Dimensity 7300X,mediatek,Octa Core,2.5,8.0,256,5000.0,66,6.78,1200,2652,120.0,3,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy M15 5G Prime Edition (6GB RAM +128GB),11999,76,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,6000.0,25,6.5,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+tecno,Tecno Pop 9 5G,7999,73,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,18,6.67,720,1612,120.0,2,1.0,48.0,8.0,Android,1024
+vivo,Vivo X Fold 5 5G,144990,94,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16.0,512,6000.0,80,8.03,2200,2480,120.0,3,2.0,50.0,20.0,Android,0
+realme,Realme Narzo 70 Turbo 5G (8GB RAM +128GB),17890,80,Yes,No,No,Dimensity 7300 Energy,mediatek,Octa Core,2.5,8.0,128,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+vivo,Vivo T3 Pro (8GB RAM + 256GB),24999,81,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme Narzo 70 Turbo 5G,15650,79,Yes,No,No,Dimensity 7300 Energy,mediatek,Octa Core,2.5,6.0,128,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+realme,Realme 14 Pro 5G,24999,79,Yes,No,No,Dimensity 7300 Energy,mediatek,Octa Core,2.5,8.0,128,6000.0,45,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+vivo,Vivo V40 Pro 5G (12GB RAM + 512GB),46299,88,Yes,No,No,Dimensity 9200 Plus,mediatek,Octa Core,3.35,12.0,512,5500.0,80,6.78,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+nothing,Nothing Phone 2a Plus (12GB RAM + 256GB),23900,85,Yes,Yes,No,Dimensity 7350 Pro 5G,mediatek,Octa Core,3.0,12.0,256,5000.0,50,6.7,1084,2412,120.0,2,1.0,50.0,50.0,Android,0
+infinix,Infinix Zero 40 5G,25999,88,Yes,Yes,Yes,Dimensity 8200 Ultimate,mediatek,Octa Core,3.1,12.0,256,5000.0,45,6.78,1080,2400,144.0,3,1.0,108.0,50.0,Android,0
+xiaomi,Xiaomi 14 Civi Limited Edition,39999,88,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,4700.0,67,6.55,1236,2750,120.0,3,2.0,50.0,32.0,Android,0
+honor,Honor 200 (12GB RAM + 512GB),28999,87,Yes,Yes,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,512,5200.0,100,6.7,1200,2664,120.0,3,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M35 5G (8GB RAM + 256GB),21499,82,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,256,6000.0,25,6.6,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+samsung,Samsung Galaxy A06,7599,70,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,25,6.74,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy F56 5G,27999,79,Yes,No,No,Exynos 1480,exynos,Octa Core,2.7,8.0,128,5000.0,45,6.74,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+oneplus,OnePlus Nord CE 4 Lite 5G (8GB RAM + 256GB),21885,82,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,256,5500.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+samsung,Samsung Galaxy Z Flip 7 5G,109999,91,Yes,Yes,No,Exynos 2500,exynos,Deca Core,3.3,12.0,256,4300.0,25,6.9,1080,2520,120.0,2,1.0,50.0,10.0,Android,0
+infinix,Infinix Note 40 5G,15999,84,Yes,Yes,Yes,Dimensity 7020,mediatek,Octa Core,2.2,8.0,256,5000.0,33,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,0
+tecno,Tecno Camon 30 5G (12GB RAM + 512GB),23999,83,Yes,No,Yes,Dimensit 7020,mediatek,Octa Core,2.2,12.0,512,5000.0,70,6.78,1080,2436,120.0,3,1.0,50.0,50.0,Android,1024
+realme,Realme GT 6T,27999,83,Yes,Yes,Yes,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,8.0,128,5500.0,120,6.78,1264,2780,120.0,2,1.0,50.0,32.0,Android,0
+realme,Realme 13 Plus 5G,18999,83,Yes,Yes,No,Dimensity 7300 E,mediatek,Octa Core,2.5,8.0,128,5000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+honor,Honor 200 Lite,19999,81,Yes,No,No,Dimensity 6080,mediatek,Octa Core,2.4,8.0,256,4500.0,35,6.7,1080,2412,60.0,3,1.0,108.0,50.0,Android,0
+vivo,Vivo T3x 5G (6GB RAM + 128GB),13999,76,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,6.0,128,6000.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,1024
+oppo,Oppo A3 Pro 5G,15439,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5100.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,0
+oppo,OPPO F27 5G,18898,81,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,45,6.67,1080,2412,120.0,2,1.0,50.0,32.0,Android,2048
+oppo,Oppo F25 Pro 5G,21999,83,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,128,5000.0,67,6.7,1080,2412,120.0,3,1.0,64.0,32.0,Android,2048
+tecno,Tecno Camon 30 5G,19990,81,Yes,No,Yes,Dimensit 7020,mediatek,Octa Core,2.2,8.0,256,5000.0,70,6.78,1080,2436,120.0,3,1.0,50.0,50.0,Android,1024
+motorola,Motorola Moto G04 (8 GB RAM + 128GB),7999,70,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,8.0,128,5000.0,15,6.56,720,1600,90.0,1,1.0,16.0,5.0,Android,1024
+vivo,Vivo Y200 5G (8GB RAM + 256GB),20590,80,Yes,No,No,Snapdragon 4 Gen1,snapdragon,Octa Core,2.0,8.0,256,4800.0,44,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,2048
+realme,Realme 12 Pro Plus 5G (8GB RAM + 256GB),22999,83,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,256,5000.0,67,6.7,1080,2412,120.0,3,1.0,64.0,32.0,Android,0
+tecno,Tecno Pova 6 Pro,19399,85,Yes,Yes,Yes,Dimensity 6080,mediatek,Octa Core,2.4,8.0,256,6000.0,70,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,1024
+oppo,OPPO Reno 11 (8GB RAM + 256GB),25600,87,Yes,Yes,Yes,Dimensity 7050,mediatek,Octa Core,2.6,8.0,256,5000.0,67,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,2048
+xiaomi,Xiaomi Redmi Note 13 Pro 5G (12GB RAM + 256GB),22768,83,Yes,No,Yes,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,12.0,256,5100.0,67,6.67,1220,2712,120.0,3,1.0,200.0,16.0,Android,0
+tecno,Tecno Camon 30 Premier 5G,29499,87,Yes,Yes,Yes,Dimensity 8200,mediatek,Octa Core,3.1,12.0,512,5000.0,70,6.77,1264,2780,120.0,3,1.0,50.0,50.0,Android,0
+poco,Poco X6 Neo,14790,81,Yes,No,Yes,Dimensity 6080,mediatek,Octa Core,2.4,8.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,108.0,16.0,Android,1024
+vivo,Vivo V30 Pro 5G,34445,85,Yes,No,No,Dimensity 8200,mediatek,Octa Core,3.1,8.0,256,5000.0,80,6.78,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+xiaomi,Xiaomi Redmi 13C 5G,10888,73,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,5000.0,18,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,1024
+samsung,Samsung Galaxy S21 FE (Snapdragon + 8GB RAM + 128GB),34999,84,Yes,Yes,No,Snapdragon 888,snapdragon,Octa Core,2.84,8.0,128,4500.0,25,6.4,1080,2340,120.0,3,1.0,12.0,32.0,Android,0
+apple,Apple iPhone 15 Plus (256GB),82900,83,Yes,Yes,No,Bionic A16,bionic,Hexa Core,3.46,6.0,256,4383.0,0,6.7,1290,2796,60.0,2,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 15 Pro Max (512GB),154900,87,Yes,Yes,No,Bionic A17 Pro,bionic,Hexa Core,3.78,8.0,512,4441.0,0,6.7,1290,2796,120.0,3,1.0,48.0,12.0,iOS,0
+motorola,Motorola Moto G54 5G (12GB RAM +256GB),16999,83,Yes,No,No,Dimensity 7020,mediatek,Octa Core,2.2,12.0,256,6000.0,33,6.5,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+xiaomi,Xiaomi Redmi 12 5G (8GB RAM + 256GB),13994,78,Yes,No,Yes,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,256,5000.0,18,6.79,1080,2460,90.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy Z Fold 6,115720,90,Yes,Yes,No,Snapdragon 8 Gen 3,snapdragon,Octa Core,3.39,12.0,256,4400.0,25,7.6,1856,2160,120.0,3,2.0,50.0,10.0,Android,0
+iqoo,iQOO Neo 9 Pro 5G,37490,81,Yes,No,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,8.0,256,5160.0,120,6.78,1260,2800,144.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy F15 5G,12998,74,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,6000.0,25,6.45,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+samsung,Samsung Galaxy M15 5G,11944,74,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,6000.0,25,6.45,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+xiaomi,Xiaomi 14 Ultra,99999,94,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16.0,512,5000.0,90,6.73,1440,3200,120.0,4,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy S23 Ultra (12GB RAM + 512GB),83899,92,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,12.0,512,5000.0,45,6.8,1440,3088,120.0,4,1.0,200.0,12.0,Android,0
+xiaomi,Xiaomi 14,59999,89,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,512,4610.0,90,6.36,1200,2670,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme GT Neo 3T (8GB RAM + 256GB),18000,80,Yes,No,No,Snapdragon 870,snapdragon,Octa Core,3.2,8.0,256,5000.0,80,6.62,1080,2400,120.0,3,1.0,64.0,16.0,Android,0
+vivo,Vivo V29 Pro,31194,82,Yes,No,No,Dimensity 8200,mediatek,Octa Core,3.1,8.0,256,4600.0,80,6.78,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+realme,Realme C30 (3GB RAM + 32GB),3750,59,No,No,No,Tiger T612,tiger,Octa Core,1.82,3.0,32,5000.0,-1,6.5,720,1600,60.0,1,1.0,8.0,5.0,Android,1024
+oneplus,OnePlus Nord CE 3 5G,22999,81,Yes,Yes,Yes,Snapdragon 782G,snapdragon,Octa Core,2.7,8.0,128,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,1024
+motorola,Motorola Moto G62 5G,11989,79,Yes,No,No,Snapdragon  695,snapdragon,Octa Core,2.2,6.0,128,5000.0,0,6.55,1080,2400,120.0,3,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy A54 5G,35499,86,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.4,1080,2340,120.0,3,1.0,50.0,32.0,Android,1024
+motorola,Motorola Moto E32,6894,70,No,No,No,Helio G37,mediatek,Octa Core,2.3,4.0,64,5000.0,10,6.5,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+google,Google Pixel 7 5G,29999,83,Yes,Yes,No,Google Tensor G2,tensor,Octa Core,2.85,8.0,128,4355.0,30,6.3,1080,2400,90.0,2,1.0,50.0,10.8,Android,0
+realme,Realme GT Neo 3 5G,20999,81,Yes,Yes,No,Dimensity  8100,mediatek,Octa Core,2.85,8.0,128,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi 12 Pro 5G,33899,86,Yes,Yes,Yes,Snapdragon 8 Gen1,snapdragon,Octa Core,3.0,8.0,256,4600.0,120,6.73,1440,3200,120.0,3,1.0,50.0,32.0,Android,0
+google,Google Pixel 6,24999,82,Yes,Yes,No,Google Tensor,tensor,Octa Core,2.8,8.0,128,4614.0,30,6.4,1080,2400,90.0,2,1.0,50.0,8.0,Android,0
+oneplus,OnePlus 9R 5G,29556,84,Yes,Yes,No,Snapdragon 870,snapdragon,Octa Core,3.2,8.0,128,4500.0,65,6.55,1080,2400,120.0,4,1.0,48.0,16.0,Android,0
+poco,Poco X3 Pro,10599,80,No,No,Yes,Snapdragon 860,snapdragon,Octa Core,2.96,6.0,128,5160.0,33,6.67,1080,2400,120.0,4,1.0,48.0,20.0,Android,0
+realme,Realme C21,3750,61,No,No,No,Helio G35,mediatek,Octa Core,2.3,3.0,32,5000.0,-1,6.5,1600,720,60.0,3,1.0,13.0,5.0,Android,256
+realme,Realme X3 SuperZoom Edition (8GB RAM + 256GB),31999,80,No,No,No,Snapdragon 855+,snapdragon,Octa Core,2.96,8.0,256,4200.0,30,6.57,1080,2400,120.0,4,2.0,64.0,32.0,Android,0
+samsung,Samsung Galaxy S20 FE 5G,29750,86,Yes,Yes,No,Snapdragon 865,snapdragon,Octa Core,2.84,8.0,128,4500.0,0,6.5,1080,2400,120.0,3,1.0,12.0,32.0,Android,0
+apple,Apple iPhone 12,44999,74,Yes,Yes,No,Bionic A14,bionic,Hexa Core,3.1,4.0,64,2815.0,-1,6.1,1170,2532,60.0,2,1.0,12.0,12.0,iOS,0
+realme,Realme 15 5G (12GB RAM + 256GB),30999,76,Yes,No,No,Dimensity 7300 Plus,mediatek,Octa Core,,12.0,256,7000.0,80,6.8,1280,2800,144.0,2,1.0,50.0,50.0,Android,0
+realme,Realme C71 (6GB RAM + 128GB),8699,68,No,No,No,Unisoc UMS9230E,unisoc,Octa Core,1.8,6.0,128,6300.0,15,6.75,720,1600,90.0,1,1.0,13.0,5.0,Android,0
+samsung,Samsung Galaxy Z Fold 7 (12GB RAM + 512GB),186999,95,Yes,Yes,No,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12.0,512,4400.0,25,8.0,1968,2184,120.0,3,2.0,200.0,10.0,Android,0
+lava,Lava Blaze Amoled (6GB RAM + 128GB),13997,72,No,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,-1,6.67,1080,2400,60.0,2,1.0,64.0,16.0,Android,0
+lava,Lava Storm Lite 5G (4GB RAM + 128GB),8999,72,Yes,No,No,Dimensity 6400,mediatek,Octa Core,2.5,4.0,128,5000.0,0,6.75,720,1600,120.0,2,1.0,50.0,5.0,Android,1024
+vivo,Vivo T4 Ultra (12GB RAM+ 512GB),41999,86,Yes,Yes,No,Dimensity 9300 Plus,mediatek,Octa Core,3.25,12.0,512,5500.0,90,6.67,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme C73 (4GB RAM + 128GB),11108,71,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,6000.0,15,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+realme,Realme GT 7 (12GB RAM + 256GB),42999,89,Yes,Yes,Yes,Dimensity 9400e,mediatek,Octa Core,3.4,12.0,256,7000.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme GT 7 (12GB RAM + 512GB),43990,89,Yes,Yes,Yes,Dimensity 9400e,mediatek,Octa Core,3.4,12.0,512,7000.0,120,6.78,1264,2780,120.0,3,1.0,50.0,32.0,Android,0
+acer,Acer Super ZX 5G  (8GB RAM + 128GB),11998,77,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,33,6.8,1080,2400,120.0,3,1.0,64.0,13.0,Android,0
+acer,Acer Super ZX 5G  (6GB RAM + 128GB),10998,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,33,6.8,1080,2400,120.0,3,1.0,64.0,13.0,Android,0
+oppo,Oppo A5x 4G,8999,68,No,No,Yes,Snapdragon 6s 4G Gen1,snapdragon,Octa Core,2.1,4.0,64,6000.0,45,6.67,720,1604,90.0,1,1.0,32.0,5.0,Android,0
+samsung,Samsung Galaxy S25 Edge (12GB RAM + 512GB),104999,89,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,512,3900.0,25,6.7,1440,3120,120.0,2,1.0,200.0,12.0,Android,0
+vivo,Vivo V50 Elite Edition,39999,85,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,512,6000.0,90,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy F56 5G (8GB RAM + 256GB),30999,80,Yes,No,No,Exynos 1480,exynos,Octa Core,2.7,8.0,256,5000.0,45,6.74,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+realme,Realme C75 5G (6GB RAM + 128GB),13998,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,6000.0,45,6.67,720,1604,120.0,1,1.0,32.0,8.0,Android,0
+samsung,Samsung Galaxy M06 (4GB RAM + 64GB),9998,70,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,25,6.74,720,1600,90.0,2,1.0,50.0,8.0,Android,1536
+samsung,Samsung Galaxy A26 (6GB RAM + 128GB),21498,80,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,6.0,128,5000.0,25,6.7,1080,2340,120.0,3,1.0,50.0,13.0,Android,2048
+realme,Realme 14T 5G (8GB RAM + 256GB),19999,81,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,6000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+oppo,Oppo A5 Pro 5G (8GB RAM + 256GB),19998,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5800.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,0
+samsung,Samsung Galaxy M56 (8GB RAM + 256GB),30999,80,Yes,No,No,Exynos 1480,exynos,Octa Core,2.7,8.0,256,5000.0,45,6.74,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+acer,Acer Super ZX,9998,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,33,6.8,1080,2400,120.0,3,1.0,64.0,13.0,Android,0
+realme,Realme Narzo 80 Pro 5G (8GB RAM + 256GB),20499,80,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,8.0,256,6000.0,80,6.72,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme Narzo 80 Pro 5G (12GB RAM + 256GB),22499,81,Yes,No,No,Dimensity 7400,mediatek,Octa Core,2.6,12.0,256,6000.0,80,6.72,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+lava,Lava Bold 5G (8GB RAM + 128GB),13999,79,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+vivo,Vivo Y39 5G (8GB RAM + 256GB),18999,74,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,256,6500.0,44,6.68,720,1608,120.0,2,1.0,50.0,8.0,Android,0
+oppo,Oppo F29 Pro (8GB RAM + 256GB),27999,79,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,6000.0,80,6.7,1080,2412,120.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy A36 5G (12GB RAM + 256GB),36999,83,Yes,Yes,No,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,12.0,256,5000.0,45,6.7,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+apple,Apple iPhone 16e (256GB),64900,84,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,256,4005.0,0,6.1,1170,2532,60.0,1,1.0,48.0,12.0,iOS,0
+samsung,Samsung Galaxy S25 (12GB RAM + 512GB),86999,87,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,512,4000.0,25,6.2,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+realme,Realme 14 Pro Plus (12GB RAM + 256GB),34999,85,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12.0,256,6000.0,80,6.83,1272,2800,120.0,3,1.0,50.0,32.0,Android,0
+xiaomi,Xiaomi Redmi 14C 5G (4GB RAM + 128GB),10498,72,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4.0,128,5160.0,18,6.88,720,1640,120.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y29 5G (8GB RAM+128GB),16999,77,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5500.0,44,6.68,720,1608,120.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme 14x (8GB RAM + 128GB),14973,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,6000.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,0
+vivo,Vivo X200 (16GB RAM + 512GB),71999,91,Yes,Yes,Yes,Dimensity 9400,mediatek,Octa Core,3.63,16.0,512,5800.0,90,6.67,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+vivo,Vivo Y300 5G (8 GB RAM+256 GB),22999,82,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,256,5000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,32.0,Android,2048
+realme,Realme 14 Pro Lite 5G,21999,80,Yes,No,No,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8.0,128,5200.0,45,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Razr 60,50229,89,Yes,Yes,No,Dimensity 7400X,mediatek,Octa Core,2.6,8.0,256,4500.0,30,6.9,1080,2640,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo V40e 5G (8GB RAM + 256GB),26999,82,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,50.0,Android,0
+tecno,Tecno Pop 9 5G (4GB RAM + 128GB),9499,74,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,18,6.67,720,1612,120.0,2,1.0,48.0,8.0,Android,1024
+realme,Realme P2 Pro (12GB RAM + 512GB),23999,82,Yes,No,No,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,12.0,512,5200.0,80,6.7,1080,2412,120.0,2,1.0,50.0,32.0,Android,0
+tecno,Tecno Pova 6 Neo 5G (8GB RAM + 256GB),13999,76,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5000.0,18,6.67,720,1600,120.0,2,1.0,108.0,8.0,Android,0
+apple,Apple iPhone 16 Plus (256GB),92900,83,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,256,4674.0,0,6.7,1290,2796,60.0,2,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 16 Pro Max (512GB),154900,89,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,512,4685.0,0,6.9,1320,2868,120.0,3,1.0,48.0,12.0,iOS,0
+realme,Realme Narzo 70 Turbo 5G (12GB RAM + 256GB),16999,82,Yes,No,No,Dimensity 7300 Energy,mediatek,Octa Core,2.5,12.0,256,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+infinix,Infinix Hot 50 5G (8 GB RAM + 128 GB),10499,77,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,18,6.7,720,1600,120.0,2,1.0,48.0,8.0,Android,1024
+vivo,Vivo Y300 Plus,20697,80,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5000.0,44,6.78,2400,1080,120.0,2,1.0,50.0,32.0,Android,1024
+vivo,Vivo T3 Ultra (12GB RAM + 256GB),31999,84,Yes,No,No,Dimensity 9200 Plus,mediatek,Octa Core,3.35,12.0,256,5500.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+infinix,Infinix Hot 50 5G,9999,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,18,6.7,720,1600,120.0,2,1.0,48.0,8.0,Android,1024
+iqoo,iQOO Z9s Pro (8GB RAM + 256GB),24699,82,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+iqoo,iQOO Z9s (8GB RAM + 256GB),20999,81,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,256,5500.0,44,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+tecno,Tecno Spark Go 1,7299,62,No,No,Yes,Unisoc T615,unisoc,Octa Core,1.8,4.0,64,5000.0,15,6.67,720,1600,120.0,1,1.0,13.0,8.0,Android,1024
+oppo,Oppo A3 5G 2024,13499,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5100.0,45,6.67,720,1604,120.0,2,1.0,50.0,5.0,Android,2048
+realme,Realme C63 5G (6GB RAM + 128GB),11989,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,10,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+tecno,Tecno POP 9 4G,6099,55,No,No,Yes,Helio G50,mediatek,Octa Core,,3.0,64,5000.0,0,6.67,720,1600,90.0,1,1.0,13.0,8.0,Android,1024
+vivo,Vivo V40 5G (12GB RAM + 512GB),41999,86,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,512,5500.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+iqoo,iQOO Z9s Pro 5G,28990,82,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,128,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme 13 Pro Plus 5G (12GB RAM + 512GB),28999,85,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12.0,512,5200.0,80,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+google,Google Pixel 9 Pro Fold,134999,91,Yes,Yes,No,Tensor G4,tensor,Octa Core,3.1,16.0,256,4650.0,0,8.03,2152,2076,120.0,3,2.0,48.0,10.0,Android,0
+oppo,OPPO Reno 12 Pro 5G (12GB RAM + 512GB),33289,87,Yes,Yes,Yes,Dimensity 7300 Energy,mediatek,Octa Core,2.5,12.0,512,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,50.0,Android,0
+cmf,CMF Phone 1 (8GB RAM + 128GB),16740,80,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,8.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+infinix,Infinix Note 40X 5G,19999,83,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5000.0,18,6.78,1080,2406,120.0,3,1.0,108.0,8.0,Android,1024
+realme,Realme C61 (6GB RAM + 128GB),8199,71,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,6.0,128,5000.0,18,6.74,720,1600,90.0,1,1.0,32.0,5.0,Android,2048
+vivo,Vivo T3 Lite 5G (6GB RAM + 128GB),11499,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+oppo,Oppo A3 Pro 5G (8GB RAM + 256GB),16499,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5100.0,45,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,0
+samsung,Samsung Galaxy F55 5G (8GB RAM + 256GB),21980,84,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8.0,256,5000.0,45,6.7,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+realme,Realme GT 6T (12GB RAM + 256GB),28708,85,Yes,Yes,Yes,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,12.0,256,5500.0,120,6.78,1264,2780,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo T3x 5G (8GB RAM + 128GB),18999,78,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,128,6000.0,44,6.72,1080,2408,120.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme P1 Pro 5G (8GB RAM + 256GB),16000,79,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,256,5000.0,45,6.7,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+vivo,Vivo Y200 Pro 5G,20890,77,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5000.0,44,6.78,2400,1080,120.0,2,1.0,64.0,16.0,Android,0
+xiaomi,Xiaomi Redmi A3x,6199,61,No,No,No,Unisoc T603,unisoc,Octa Core,1.8,3.0,64,5000.0,10,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+tecno,Tecno Pova 6 Pro (12GB RAM + 256GB),21399,86,Yes,Yes,Yes,Dimensity 6080,mediatek,Octa Core,2.4,12.0,256,6000.0,70,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,1024
+vivo,Vivo T3 5G (8GB RAM + 256GB),18499,81,Yes,No,No,Dimensity 7200,mediatek,Octa Core,2.8,8.0,256,5000.0,44,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,1024
+vivo,Vivo V30 5G (12GB RAM + 256GB),28999,84,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,256,5000.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+vivo,Vivo V30 Pro (12GB RAM + 512GB),38599,86,Yes,No,No,Dimensity 8200,mediatek,Octa Core,3.1,12.0,512,5000.0,80,6.78,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+nothing,Nothing Phone 2a (8GB RAM + 256GB),21695,84,Yes,Yes,No,Dimensity 7200 Pro,mediatek,Octa Core,2.8,8.0,256,5000.0,45,6.7,1084,2412,120.0,2,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy F15 5G (6GB RAM + 128GB),13399,75,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,6000.0,25,6.45,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+vivo,Vivo V30e 5G,25999,84,Yes,Yes,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,128,5500.0,44,6.78,1080,2400,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy A15 5G (6GB RAM + 128GB),14444,77,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,25,6.5,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+realme,Realme 13 Pro 5G,19125,80,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,128,5200.0,45,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+oneplus,OnePlus 12R (16GB RAM + 256GB),42867,85,Yes,Yes,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,16.0,256,5500.0,100,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+oneplus,OnePlus 12 (16GB RAM + 512GB),64999,92,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16.0,512,5400.0,100,6.82,1440,3168,120.0,3,1.0,64.0,32.0,Android,0
+samsung,Samsung Galaxy S24 Ultra (12GB RAM + 1TB),159999,94,Yes,Yes,No,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,1024,5000.0,45,6.8,1440,3120,120.0,4,1.0,200.0,12.0,Android,0
+samsung,Samsung Galaxy S24 (8GB RAM + 512GB),89999,87,Yes,Yes,No,Exynos 2400,exynos,Deca Core,3.2,8.0,512,4000.0,25,6.2,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+samsung,Samsung Galaxy S24 Plus (12GB RAM + 512GB),68999,88,Yes,Yes,No,Exynos 2400,exynos,Deca Core,3.2,12.0,512,4900.0,45,6.7,1440,3120,120.0,3,1.0,50.0,12.0,Android,0
+poco,Poco X6 Pro 5G (12GB RAM + 512GB),29999,84,Yes,Yes,Yes,Dimensity 8300 Ultra,mediatek,Octa Core,3.35,12.0,512,5000.0,67,6.67,1220,2712,120.0,3,1.0,64.0,16.0,Android,0
+motorola,Motorola Moto G34 5G (8GB RAM + 128GB),12999,75,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5000.0,18,6.5,720,1600,120.0,2,1.0,50.0,16.0,Android,1024
+xiaomi,Xiaomi Redmi Note 13 5G (12GB RAM + 256GB),17499,83,Yes,No,Yes,Dimensity 6080,mediatek,Octa Core,2.4,12.0,256,5000.0,33,6.67,1080,2400,120.0,3,1.0,108.0,16.0,Android,1024
+xiaomi,Xiaomi Redmi Note 13 5G (8GB RAM + 256GB),16999,82,Yes,No,Yes,Dimensity 6080,mediatek,Octa Core,2.4,8.0,256,5000.0,33,6.67,1080,2400,120.0,3,1.0,108.0,16.0,Android,1024
+realme,Realme C67 5G (6GB RAM + 128GB),11000,76,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,33,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+xiaomi,Xiaomi Redmi 13C 5G (6GB RAM + 128GB),11299,74,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,1024
+xiaomi,Xiaomi Redmi 13C 5G (8GB RAM + 256GB),14499,77,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,256,5000.0,18,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,1024
+vivo,Vivo X Fold 3 Pro,159999,96,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16.0,512,5700.0,100,8.03,2200,2480,120.0,3,2.0,64.0,32.0,Android,0
+iqoo,iQOO 12 5G (16GB RAM + 512GB),51990,87,Yes,Yes,Yes,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16.0,512,5000.0,120,6.78,1260,2800,144.0,3,1.0,64.0,16.0,Android,0
+tecno,Tecno Phantom V Fold 2,89999,95,Yes,Yes,No,Dimensity 9000 Plus,mediatek,Octa Core,3.2,12.0,512,5750.0,70,7.85,2000,2296,120.0,3,2.0,50.0,32.0,Android,0
+vivo,Vivo T2 Pro 5G (8GB RAM + 256GB),23899,79,Yes,No,No,Dimensity 7200,mediatek,Octa Core,2.8,8.0,256,4600.0,66,6.78,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+samsung,Samsung Galaxy A25 5G,19580,82,Yes,Yes,No,Exynos 1280,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.5,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+realme,Realme 12X,10499,74,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+motorola,Motorola Edge 40 Neo,22790,82,Yes,Yes,No,Dimensity 7030,mediatek,Octa Core,2.5,8.0,128,5000.0,68,6.55,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+motorola,Motorola Moto G84 5G,18999,83,Yes,Yes,No,Snapdragon 695,snapdragon,Octa Core,2.2,12.0,256,5000.0,30,6.55,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+motorola,Motorola Moto G54 5G,14999,82,Yes,No,No,Dimensity 7020,mediatek,Octa Core,2.2,8.0,128,6000.0,33,6.5,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy S21 FE (Snapdragon),36490,85,Yes,Yes,No,Snapdragon 888,snapdragon,Octa Core,2.84,8.0,256,4500.0,25,6.4,1080,2340,120.0,3,1.0,12.0,32.0,Android,0
+samsung,Samsung Galaxy Z Flip 6 5G,80999,90,Yes,Yes,No,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,256,4000.0,25,6.7,1080,2640,120.0,2,1.0,50.0,10.0,Android,0
+realme,Realme C51,6999,68,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,33,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,2048
+realme,Realme 11 Pro (12GB RAM + 256GB),27999,83,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,12.0,256,5000.0,67,6.7,1080,2412,120.0,2,1.0,100.0,16.0,Android,0
+motorola,Motorola Razr 50,48898,88,Yes,Yes,No,Dimensity 7300X,mediatek,Octa Core,2.5,8.0,256,4200.0,33,6.9,1080,2640,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo V29e,26999,83,Yes,Yes,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5000.0,44,6.78,1080,2400,120.0,2,1.0,64.0,50.0,Android,0
+poco,Poco F5 (12GB RAM + 256GB),22999,82,Yes,No,Yes,Snapdragon 7+ Gen2,snapdragon,Octa Core,2.91,12.0,256,5000.0,67,6.67,1080,2400,120.0,3,1.0,64.0,16.0,Android,0
+oppo,OPPO Reno 11 Pro 5G,30800,86,Yes,Yes,Yes,Dimensity 8200,mediatek,Octa Core,3.1,12.0,256,4600.0,80,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy M55,22890,84,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8.0,128,5000.0,45,6.67,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+honor,Honor 90 5G,46999,86,Yes,Yes,No,Snapdragon 7 Gen 1 Accelerated Edition,snapdragon,Octa Core,2.36,8.0,256,5000.0,66,6.7,1200,2664,120.0,3,1.0,200.0,50.0,Android,0
+oneplus,OnePlus 12R,39994,83,Yes,Yes,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,8.0,128,5500.0,100,6.78,1264,2780,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo Y36 4G,11299,78,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,8.0,128,5000.0,44,6.64,1080,2388,90.0,2,1.0,50.0,16.0,Android,1024
+realme,Realme 12 5G,13999,76,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,108.0,8.0,Android,2048
+realme,Realme 12 Pro 5G,19999,79,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,128,5000.0,67,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+realme,Realme 12 Pro Plus,25875,82,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,128,5000.0,67,6.7,1080,2412,120.0,3,1.0,64.0,32.0,Android,0
+vivo,Vivo T2x 5G (6GB RAM + 128GB),12999,76,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.58,1080,2408,60.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo X100 5G,63899,89,Yes,Yes,Yes,Dimensity 9300,mediatek,Octa Core,3.25,12.0,256,5000.0,120,6.78,1260,2800,120.0,3,1.0,64.0,32.0,Android,0
+samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),27499,84,Yes,Yes,No,Dimensity 1080,mediatek,Octa Core,2.6,8.0,128,5000.0,25,6.6,1080,2340,120.0,3,1.0,48.0,13.0,Android,1024
+motorola,Motorola Moto G32 (8GB RAM + 128GB),10999,77,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,8.0,128,5000.0,33,6.55,1080,2400,90.0,3,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy A54 5G (8GB RAM + 256GB),29990,87,Yes,Yes,No,Exynos 1380,exynos,Octa Core,2.4,8.0,256,5000.0,25,6.4,1080,2340,120.0,3,1.0,50.0,32.0,Android,1024
+samsung,Samsung Galaxy S23 (8GB RAM + 256GB),49999,86,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,8.0,256,3900.0,25,6.1,1080,2340,120.0,3,1.0,50.0,12.0,Android,0
+motorola,Motorola Moto G73,12999,82,Yes,Yes,No,Dimensity 930,mediatek,Octa Core,2.2,8.0,128,5000.0,30,6.5,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy F14 4G,8999,74,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,4.0,64,5000.0,25,6.7,1080,2400,90.0,3,1.0,50.0,13.0,Android,1024
+motorola,Motorola Moto E13,5999,61,No,No,No,Tiger T606,tiger,Octa Core,1.6,2.0,64,5000.0,10,6.5,720,1600,60.0,1,1.0,13.0,5.0,Android,1024
+realme,Realme 10 Pro Plus (8GB RAM + 128GB),19499,82,Yes,No,No,Dimensity 1080,mediatek,Octa Core,2.6,8.0,128,5000.0,67,6.7,1080,2412,120.0,3,1.0,108.0,16.0,Android,0
+oppo,Oppo Reno 10 Pro Plus,39990,86,Yes,Yes,Yes,Snapdragon 8+ Gen1,snapdragon,Octa Core,3.2,12.0,256,4700.0,100,6.74,1240,2772,120.0,3,1.0,64.0,32.0,Android,0
+iqoo,iQOO Z9 5G,20000,81,Yes,No,No,Dimensity 7200,mediatek,Octa Core,2.8,8.0,128,5000.0,44,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+poco,Poco M5 (6GB RAM + 128GB),8499,75,No,No,Yes,Helio G99,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.58,1080,2400,90.0,3,1.0,50.0,8.0,Android,512
+nothing,Nothing Phone 2,39999,86,Yes,Yes,No,Snapdragon 8+ Gen1,snapdragon,Octa Core,3.2,8.0,128,4700.0,45,6.7,1080,2412,120.0,2,1.0,50.0,32.0,Android,0
+apple,Apple iPhone 14 (256GB),62990,80,Yes,Yes,No,Bionic A15,bionic,Hexa Core,3.22,6.0,256,3279.0,0,6.1,1170,2532,60.0,2,1.0,12.0,12.0,iOS,0
+xiaomi,Xiaomi Redmi Note 11SE,9499,78,No,No,Yes,Helio G95,mediatek,Octa Core,2.05,6.0,64,5000.0,33,6.43,1080,2400,60.0,4,1.0,64.0,13.0,Android,512
+poco,Poco M6 5G,8990,72,Yes,No,Yes,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,5000.0,18,6.74,720,1650,90.0,2,1.0,50.0,5.0,Android,1024
+oppo,Oppo A78,16490,76,Yes,No,No,Dimensity 700 5G,mediatek,Octa Core,2.2,8.0,128,5000.0,33,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,0
+infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),8499,74,No,No,No,Tiger T616,tiger,Octa Core,2.0,8.0,128,5000.0,18,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,256
+nothing,Nothing Phone 1 (8GB RAM + 256GB),22999,84,Yes,Yes,No,Snapdragon 778G Plus,snapdragon,Octa Core,2.5,8.0,256,4500.0,33,6.55,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+nothing,Nothing Phone 1 (12GB RAM + 256GB),24999,84,Yes,Yes,No,Snapdragon 778G Plus,snapdragon,Octa Core,2.5,12.0,256,4500.0,33,6.55,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+apple,Apple iPhone 14 Plus,69900,80,Yes,Yes,No,Bionic A15,bionic,Hexa Core,3.22,6.0,128,4325.0,0,6.7,1284,2778,60.0,2,1.0,12.0,12.0,iOS,0
+xiaomi,Xiaomi 13 Pro 5G,54990,90,Yes,Yes,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,12.0,256,4820.0,120,6.73,1440,3200,120.0,3,1.0,50.0,32.0,Android,0
+vivo,Vivo X90 Pro 5G,49999,89,Yes,Yes,Yes,Dimensity 9200,mediatek,Octa Core,3.05,12.0,256,4870.0,120,6.78,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Moto G42,9299,76,No,Yes,No,Snapdragon 680,snapdragon,Octa Core,2.4,4.0,64,5000.0,20,6.47,1080,2400,60.0,3,1.0,50.0,16.0,Android,1024
+poco,Poco X6 5G,17999,79,Yes,No,Yes,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8.0,256,5100.0,67,6.67,1220,2712,120.0,3,1.0,64.0,16.0,Android,0
+motorola,Motorola Edge 40 5G,24999,85,Yes,Yes,No,Dimensity 8020,mediatek,Octa Core,2.6,8.0,256,4400.0,68,6.55,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+iqoo,iQOO Z7 Pro 5G,26999,77,Yes,No,No,Dimensity 7200,mediatek,Octa Core,2.8,8.0,128,4600.0,66,6.78,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+realme,Realme GT Neo 3 5G (8GB RAM + 256GB),22999,81,Yes,Yes,No,Dimensity  8100,mediatek,Octa Core,2.85,8.0,256,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo T1 Pro,15084,79,Yes,No,No,Snapdragon 778G,snapdragon,Octa Core,2.4,6.0,128,4700.0,66,6.44,1080,2404,90.0,3,1.0,64.0,16.0,Android,1024
+nothing,Nothing Phone 1,20999,83,Yes,Yes,No,Snapdragon 778G Plus,snapdragon,Octa Core,2.5,8.0,128,4500.0,33,6.55,1080,2400,120.0,2,1.0,50.0,16.0,Android,0
+oneplus,OnePlus Nord CE 2 5G (8GB RAM + 128GB),25999,83,Yes,Yes,No,Dimensity 900,mediatek,Octa Core,2.4,8.0,128,4500.0,65,6.43,1080,2400,90.0,3,1.0,64.0,16.0,Android,1024
+oneplus,OnePlus Nord CE 2 Lite 5G,19990,79,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,6.0,128,5000.0,33,6.59,1080,2412,120.0,3,1.0,64.0,16.0,Android,1024
+oneplus,OnePlus 10R 5G,28949,82,Yes,Yes,No,Dimensity 8100 Max,mediatek,Octa Core,2.85,8.0,128,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,20394,77,Yes,No,Yes,Dimensity 1080,mediatek,Octa Core,2.6,6.0,128,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi Note 12 5G,13418,75,Yes,No,Yes,Snapdragon 4 Gen 1,snapdragon,Octa Core,2.0,4.0,128,5000.0,33,6.67,1080,2400,120.0,3,1.0,48.0,13.0,Android,1024
+vivo,Vivo V25 Pro 5G,25999,81,Yes,No,No,Dimensity 1300,mediatek,Octa Core,3.0,8.0,128,4830.0,66,6.56,1080,2376,120.0,3,1.0,64.0,32.0,Android,0
+infinix,Infinix Note 11 (6GB RAM + 128GB),8999,75,No,No,No,Helio G88,mediatek,Octa Core,2.0,6.0,128,5000.0,33,6.7,1080,2400,60.0,3,1.0,50.0,16.0,Android,0
+poco,POCO M4 Pro 4G,9890,75,No,No,Yes,Helio G96,mediatek,Octa Core,2.05,6.0,64,5000.0,33,6.43,1080,2400,90.0,3,1.0,64.0,16.0,Android,1024
+samsung,Samsung Galaxy A53 5G,29500,85,Yes,Yes,No,Exynos 1280,exynos,Octa Core,2.4,6.0,128,5000.0,25,6.5,1080,2400,120.0,4,1.0,64.0,32.0,Android,1024
+vivo,Vivo X80 Pro 5G,44999,88,Yes,Yes,Yes,Snapdragon 8 Gen1,snapdragon,Octa Core,3.0,12.0,256,4700.0,80,6.78,1440,3200,120.0,4,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy A73 5G,41999,88,Yes,Yes,No,Snapdragon 778G,snapdragon,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2400,120.0,4,1.0,108.0,32.0,Android,1024
+samsung,Samsung Galaxy S22 5G,72999,84,Yes,Yes,No,Snapdragon  8 Gen1,snapdragon,Octa Core,3.0,8.0,128,3700.0,25,6.1,1080,2340,120.0,3,1.0,50.0,10.0,Android,0
+oneplus,OnePlus 10 Pro 5G,29999,86,Yes,Yes,No,Snapdragon 8 Gen1,snapdragon,Octa Core,3.0,8.0,128,5000.0,80,6.7,1440,3216,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy S21 FE 5G,39999,84,Yes,Yes,No,Exynos 2100,exynos,Octa Core,2.9,8.0,128,4500.0,25,6.4,1080,2340,120.0,3,1.0,12.0,32.0,Android,0
+realme,Realme C20,3500,58,No,No,No,Helio G35,mediatek,Octa Core,2.3,2.0,32,5000.0,-1,6.5,1600,720,60.0,1,1.0,8.0,5.0,Android,256
+xiaomi,Xiaomi Redmi 9 Power,8299,73,No,No,Yes,Snapdragon  662,snapdragon,Octa Core,2.0,4.0,64,6000.0,18,6.53,1080,2340,60.0,4,1.0,48.0,8.0,Android,512
+apple,Apple iPhone 12 (128GB),43999,74,Yes,Yes,No,Bionic A14,bionic,Hexa Core,3.1,4.0,128,2815.0,-1,6.1,1170,2532,60.0,2,1.0,12.0,12.0,iOS,0
+oneplus,OnePlus 8T (12GB RAM + 256GB),27349,84,Yes,Yes,No,Snapdragon 865,snapdragon,Octa Core,2.84,12.0,256,4500.0,65,6.55,1080,2400,120.0,4,1.0,48.0,16.0,Android,0
+apple,Apple iPhone 11 (128GB),48900,74,No,Yes,No,A13 Bionic,bionic,Hexa Core,2.65,4.0,128,3110.0,-1,6.1,828,1792,60.0,2,1.0,12.0,12.0,iOS,0
+tecno,Tecno Spark Go 2 (3GB RAM + 64GB),6699,62,No,No,Yes,Unisoc T7250,unisoc,Octa Core,1.8,3.0,64,5000.0,15,6.67,720,1600,120.0,1,1.0,13.0,8.0,Android,1024
+realme,Realme 13 Pro 5G (12GB RAM + 256GB),24885,82,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12.0,256,5200.0,45,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy Z Flip 7 FE (8GB RAM + 256GB),78399,90,Yes,Yes,No,Exynos 2400,exynos,Octa Core,3.2,8.0,256,4000.0,25,6.7,1080,2640,120.0,2,1.0,50.0,10.0,Android,0
+samsung,Samsung Galaxy Z Flip 7 5G (12GB RAM+512GB),100999,91,Yes,Yes,No,Exynos 2500,exynos,Deca Core,3.3,12.0,512,4300.0,25,6.9,1080,2520,120.0,2,1.0,50.0,10.0,Android,0
+lava,Lava Blaze Amoled,13499,69,No,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,-1,6.67,1080,2400,60.0,2,1.0,64.0,16.0,Android,0
+blackzone,BlackZone Miniature Phone,4499,47,No,No,No,Helio MT6737,mediatek,Octa Core,1.25,3.0,16,2000.0,0,3.0,480,854,60.0,1,1.0,8.0,5.0,Android,128
+blackzone,Blackzone Warrior 4G,6799,49,No,No,No,Unisoc SC9863A,unisoc,Octa Core,,4.0,128,5250.0,-1,6.6,1560,720,60.0,1,1.0,16.0,8.0,Android,0
+realme,Realme GT 7T (12GB RAM + 512GB),38999,87,Yes,Yes,Yes,Dimensity 8400-MAX,mediatek,Octa Core,3.25,12.0,512,7000.0,120,6.8,1280,2800,120.0,2,1.0,50.0,32.0,Android,0
+alcatel,Alcatel V3 Ultra (8GB RAM + 128GB),21999,85,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5010.0,33,6.78,1080,2460,120.0,3,1.0,108.0,32.0,Android,2048
+alcatel,Alcatel V3 Classic (6GB RAM + 128GB),14999,76,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5200.0,18,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,2048
+lava,Lava Bold N1,5999,57,No,No,No,Unisoc 9863A,unisoc,Octa Core,,4.0,64,5000.0,10,6.75,1600,720,60.0,2,1.0,13.0,5.0,Android,256
+itel,itel A95 5G (6GB RAM + 128GB),10199,72,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,18,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,0
+alcatel,Alcatel V3 Classic,12999,73,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5200.0,18,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,2048
+alcatel,Alcatel V3 Pro,17999,80,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5200.0,18,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,2048
+alcatel,Alcatel V3 Ultra,19999,83,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5010.0,33,6.78,1080,2460,120.0,3,1.0,108.0,32.0,Android,2048
+realme,Realme P1 Speed 5G (8GB RAM + 256GB),17999,81,Yes,No,No,Dimensity 7300 E,mediatek,Octa Core,2.5,8.0,256,5000.0,45,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+lava,Lava Yuva Star 2,6727,58,No,No,Yes,UNISOC 9863A,unisoc,Octa Core,,4.0,64,5000.0,10,6.75,720,1600,60.0,2,1.0,13.0,5.0,Android,1024
+itel,itel Zeno 5G,10299,70,Yes,No,Yes,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,18,6.67,720,1612,120.0,2,1.0,50.0,8.0,Android,1024
+itel,itel A95 5G,10998,69,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,18,6.67,720,1600,120.0,2,1.0,50.0,8.0,Android,0
+lava,Lava Bold 5G (6GB RAM + 128GB),13499,77,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+oppo,OPPO Reno 13 5G (12GB RAM + 512GB),41999,87,Yes,Yes,Yes,Dimensity 8350,mediatek,Octa Core,3.35,12.0,512,5600.0,80,6.59,1256,2760,120.0,3,1.0,50.0,50.0,Android,0
+lava,Lava Shark,6599,67,No,No,Yes,Unisoc T606,unisoc,Octa Core,1.6,4.0,64,5000.0,18,6.67,720,1612,120.0,1,1.0,50.0,8.0,Android,256
+realme,Realme 14 Pro Plus (12GB RAM + 512GB),35999,86,Yes,No,No,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12.0,512,6000.0,80,6.83,1272,2800,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme 14 Pro Lite 5G (8GB RAM + 256GB),23999,81,Yes,No,No,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8.0,256,5200.0,45,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy M16 5G (8GB RAM + 128GB),17998,79,Yes,Yes,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2340,90.0,3,1.0,50.0,13.0,Android,1536
+apple,Apple iPhone 16e (512GB),83999,85,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,512,4005.0,0,6.1,1170,2532,60.0,1,1.0,48.0,12.0,iOS,0
+lava,Lava Yuva Smart,6099,61,No,No,No,Unisoc SC9863A,unisoc,Octa Core,1.6,3.0,64,5000.0,10,6.75,720,1600,60.0,2,1.0,13.0,5.0,Android,512
+samsung,Samsung Galaxy S25 Plus (12GB RAM + 512GB),103799,88,Yes,Yes,No,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12.0,512,4900.0,45,6.7,1440,3120,120.0,3,1.0,50.0,12.0,Android,0
+bigme,Bigme Hibreak E INK,42990,64,No,No,No,ARM,arm,Octa Core,2.3,6.0,128,3300.0,-1,5.84,720,1440,60.0,1,1.0,13.0,5.0,Android,1024
+samsung,Samsung Galaxy A14 4G (6GB RAM + 128 GB),9699,74,No,No,No,Exynos 850,exynos,Octa Core,2.0,6.0,128,5000.0,15,6.6,1080,2408,60.0,3,1.0,50.0,13.0,Android,1024
+tecno,Tecno Spark 30C 5G (8GB RAM + 128GB),12999,75,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,18,6.67,720,1600,120.0,2,1.0,48.0,8.0,Android,1024
+realme,Realme 14 Pro 5G (8GB RAM + 256GB),26999,80,Yes,No,No,Dimensity 7300 Energy,mediatek,Octa Core,2.5,8.0,256,6000.0,45,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+itel,itel Zeno 10 (4GB RAM + 64GB),5899,56,No,No,No,UNISOC T603,unisoc,Octa Core,,4.0,64,5000.0,0,6.6,720,1612,60.0,2,1.0,8.0,5.0,Android,0
+itel,itel A90,6486,61,No,No,No,Unisoc T7100,unisoc,Octa Core,1.8,4.0,64,5000.0,15,6.6,720,1612,90.0,1,1.0,13.0,5.0,Android,2048
+itel,itel Zeno 10,5999,55,No,No,No,UNISOC T603,unisoc,Octa Core,,3.0,64,5000.0,0,6.6,720,1612,60.0,2,1.0,8.0,5.0,Android,0
+lava,Lava Yuva 2 5G,9499,73,Yes,No,No,Unisoc T760,unisoc,Octa Core,2.2,4.0,128,5000.0,18,6.67,720,1612,90.0,2,1.0,50.0,8.0,Android,512
+infinix,Infinix Smart 9 HD,6699,65,No,No,Yes,Helio G50,mediatek,Octa Core,2.2,3.0,64,5000.0,10,6.7,720,1600,90.0,1,1.0,13.0,8.0,Android,1024
+vivo,Vivo Y29 5G (8GB RAM+256GB),18999,78,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5500.0,44,6.68,720,1608,120.0,2,1.0,50.0,8.0,Android,1024
+lava,Lava O3 (3GB RAM + 64GB),5799,55,No,No,No,UNISOC SC9863A,unisoc,Octa Core,,3.0,64,5000.0,10,6.75,1600,720,60.0,2,1.0,13.0,5.0,Android,1024
+lava,Lava Blaze Duo (8GB RAM + 128GB),17999,79,Yes,No,No,Dimensity 7025,mediatek,Octa Core,2.5,8.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+lava,Lava O3 Pro,6599,69,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,4.0,128,5000.0,10,6.56,1600,720,60.0,3,1.0,50.0,8.0,Android,1024
+lava,Lava Blaze Duo,16999,77,Yes,No,No,Dimensity 7025,mediatek,Octa Core,2.5,6.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+oppo,Oppo Find X8 5G (16GB RAM + 512GB),79900,91,Yes,Yes,Yes,Dimensity 9400,mediatek,Octa Core,3.63,16.0,512,5630.0,80,6.59,1256,2760,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy Z Flip 7 FE 5G,89999,89,Yes,Yes,No,Exynos 2400,exynos,Octa Core,3.2,8.0,128,4000.0,25,6.7,1080,2640,120.0,2,1.0,50.0,10.0,Android,0
+tecno,TECNO Spark GO 1 (3GB RAM + 64GB),6899,61,No,No,Yes,Unisoc T615,unisoc,Octa Core,1.8,3.0,64,5000.0,15,6.67,720,1600,120.0,1,1.0,13.0,8.0,Android,1024
+samsung,Samsung Galaxy A04 (3GB RAM + 32GB),6480,67,No,No,No,Helio P35,mediatek,Octa Core,2.3,3.0,32,5000.0,0,6.5,720,1600,60.0,2,1.0,50.0,5.0,Android,1024
+oppo,OPPO A3x 4G (4GB RAM + 128GB),9999,57,No,No,No,Snapdragon 6s Gen1 4G,snapdragon,Octa Core,,4.0,128,5100.0,45,6.67,720,1604,90.0,2,1.0,8.0,5.0,Android,0
+tecno,Tecno Spark 30C 5G (4GB RAM + 64GB),9999,71,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,18,6.67,720,1600,120.0,2,1.0,48.0,8.0,Android,1024
+tecno,Tecno Spark 30C 5G,10499,72,Yes,Yes,Yes,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,18,6.67,720,1600,120.0,2,1.0,48.0,8.0,Android,1024
+samsung,Samsung Galaxy M15 5G Prime Edition (8GB RAM +128GB),16999,79,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,6000.0,25,6.5,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+apple,Apple iPhone 16 Plus (512GB),109999,84,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,512,4674.0,0,6.7,1290,2796,60.0,2,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 16 Pro (512GB),140900,89,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,512,3582.0,0,6.3,1206,2622,120.0,3,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 16 (512GB),99900,86,Yes,Yes,No,Bionic A18,bionic,Hexa Core,4.04,8.0,512,3561.0,0,6.1,1179,2556,60.0,2,1.0,48.0,12.0,iOS,0
+apple,Apple iPhone 16 Pro (1TB),162900,89,Yes,Yes,No,Bionic A18 Pro,bionic,Hexa Core,4.05,8.0,1024,3582.0,0,6.3,1206,2622,120.0,3,1.0,48.0,12.0,iOS,0
+realme,Realme C63 (4GB RAM +64GB),8499,70,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,45,6.75,720,1600,90.0,2,1.0,50.0,8.0,Android,2048
+samsung,Samsung Galaxy A06 (4GB RAM + 128GB),9799,71,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,128,5000.0,25,6.74,720,1600,60.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme 13 5G (8GB RAM +256GB),18998,80,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+realme,Realme 13 Plus 5G (8GB RAM + 256GB),19969,83,Yes,Yes,No,Dimensity 7300 E,mediatek,Octa Core,2.5,8.0,256,5000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+realme,Realme 13 Plus 5G (12GB RAM + 256GB),23399,84,Yes,Yes,No,Dimensity 7300 E,mediatek,Octa Core,2.5,12.0,256,5000.0,80,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+infinix,Infinix Note 40 Pro Racing Edition,21999,84,Yes,Yes,Yes,Dimensity 7020,mediatek,Octa Core,2.2,8.0,256,5000.0,45,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,0
+iqoo,iQOO Z9s Pro (12GB RAM + 256GB),26999,83,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12.0,256,5500.0,80,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+itel,itel A50 (3GB RAM + 64GB),5899,51,No,No,No,Unisoc T603,unisoc,Octa Core,,3.0,64,5000.0,10,6.6,720,1612,90.0,2,1.0,8.0,5.0,Android,0
+iqoo,iQOO Z9s (12GB RAM + 256GB),29999,82,Yes,No,No,Dimensity 7300,mediatek,Octa Core,2.5,12.0,256,5500.0,44,6.77,1080,2392,120.0,2,1.0,50.0,16.0,Android,0
+realme,Realme C65 5G (8GB RAM + 128GB),15000,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,15,6.67,720,1604,120.0,1,1.0,50.0,8.0,Android,2048
+xiaomi,Xiaomi Redmi A3x (4GB RAM + 128GB),6968,64,No,No,No,Unisoc T603,unisoc,Octa Core,1.8,4.0,128,5000.0,10,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+oppo,OPPO F27 (8GB RAM + 256GB),21999,82,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5000.0,45,6.67,1080,2412,120.0,2,1.0,50.0,32.0,Android,2048
+vivo,Vivo Y28s 5G (8GB RAM + 128GB),15999,78,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+google,Google Pixel 9 Pro XL (16GB RAM + 512GB),119999,91,Yes,Yes,No,Tensor G4,tensor,Octa Core,3.1,16.0,512,5060.0,37,6.8,1344,2992,120.0,3,1.0,50.0,42.0,Android,0
+itel,itel A50C,5914,48,No,No,No,Unisoc T603,unisoc,Octa Core,,2.0,32,4000.0,5,6.56,720,1612,60.0,1,1.0,8.0,5.0,Android,0
+realme,Realme C63 5G (8GB RAM + 128GB),12990,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,10,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+oppo,OPPO A3x 4G,8999,56,No,No,No,Snapdragon 6s Gen1 4G,snapdragon,Octa Core,,4.0,64,5100.0,45,6.67,720,1604,90.0,2,1.0,8.0,5.0,Android,0
+itel,itel A50,6751,53,No,No,No,Unisoc T603,unisoc,Octa Core,,4.0,64,5000.0,10,6.6,720,1612,90.0,2,1.0,8.0,5.0,Android,0
+oppo,OPPO A3x 5G (4GB RAM + 64GB),10999,66,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5100.0,45,6.67,720,1604,120.0,1,1.0,8.0,5.0,Android,0
+vivo,Vivo V40 5G (8GB RAM + 256GB),36999,84,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,5500.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+realme,Realme C63 5G,10999,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,10,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,2048
+realme,Realme Narzo N65 5G (8GB RAM + 128GB),12998,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,15,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+oneplus,OnePlus Open 5G Apex Edition,149998,94,Yes,Yes,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,16.0,1024,4805.0,67,7.82,2268,2440,120.0,3,2.0,64.0,32.0,Android,0
+realme,Realme 13 Pro 5G (8GB RAM + 256GB),23899,81,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8.0,256,5200.0,45,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme 13 Pro 5G (12GB RAM + 512GB),27989,83,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12.0,512,5200.0,45,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme 13 Pro Plus 5G (12GB RAM + 256GB),26499,84,Yes,No,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12.0,256,5200.0,80,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+oppo,OPPO K12x 5G (8GB RAM + 256GB),16798,76,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,256,5100.0,45,6.67,720,1604,120.0,2,1.0,32.0,8.0,Android,1024
+realme,Realme Narzo N61 (6GB RAM + 128GB),8990,70,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,6.0,128,5000.0,10,6.74,720,1600,90.0,1,1.0,32.0,5.0,Android,0
+poco,Poco F6 Deadpool Limited Edition,33999,83,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,256,5000.0,90,6.67,1220,2712,120.0,2,1.0,50.0,20.0,Android,0
+realme,Realme Narzo N61,7889,66,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,10,6.74,720,1600,90.0,1,1.0,32.0,5.0,Android,0
+poco,Poco M6 5G (4GB RAM + 64GB),10990,74,Yes,No,Yes,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,64,5000.0,18,6.74,720,1650,90.0,2,1.0,50.0,5.0,Android,1024
+oneplus,OnePlus Nord 4 5G (12GB RAM + 256GB),32999,84,Yes,Yes,Yes,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,12.0,256,5500.0,100,6.74,1240,2772,120.0,2,1.0,50.0,16.0,Android,0
+hmd,HMD Crest,14498,77,Yes,No,No,Unisoc T760,unisoc,Octa Core,2.2,6.0,128,5000.0,33,6.67,1080,2400,90.0,2,1.0,50.0,50.0,Android,256
+vivo,Vivo Y28e 5G (4GB RAM + 64GB),9999,68,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,15,6.56,720,1612,90.0,2,1.0,13.0,5.0,Android,1024
+vivo,Vivo Y18i,8449,58,No,No,No,Unisoc T612,unisoc,Octa Core,,4.0,64,5000.0,15,6.56,720,1612,90.0,2,1.0,13.0,5.0,Android,0
+tecno,Tecno Spark 20 Pro 5G (8GB RAM + 256GB),18999,79,Yes,No,No,Dimensity 6080,mediatek,Octa Core,2.4,8.0,256,5000.0,33,6.78,1080,2460,120.0,3,1.0,108.0,8.0,Android,0
+lava,Lava Blaze X 5G (8GB RAM + 128GB),16999,78,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,33,6.67,1080,2400,120.0,2,1.0,64.0,16.0,Android,0
+vivo,Vivo Y18t,8214,71,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,0
+vivo,Vivo Y28s 5G (6GB RAM + 128GB),14499,75,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+lava,Lava Yuva Star,6499,62,No,No,No,Unisoc SC9863A,unisoc,Octa Core,1.6,4.0,64,5000.0,10,6.75,720,1600,60.0,2,1.0,13.0,5.0,Android,1024
+realme,Realme C61 (4GB RAM + 128GB),7999,68,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,128,5000.0,18,6.74,720,1600,90.0,1,1.0,32.0,5.0,Android,2048
+hmd,HMD Fusion,18999,80,Yes,Yes,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5000.0,33,6.56,720,1612,90.0,2,1.0,108.0,50.0,Android,1024
+samsung,Samsung Galaxy Z Fold 6 (12GB RAM + 1TB),200999,91,Yes,Yes,No,Snapdragon 8 Gen 3,snapdragon,Octa Core,3.39,12.0,1024,4400.0,25,7.6,1856,2160,120.0,3,2.0,50.0,10.0,Android,0
+samsung,Samsung Galaxy Z Fold 6 (12GB RAM + 512GB),134999,91,Yes,Yes,No,Snapdragon 8 Gen 3,snapdragon,Octa Core,3.39,12.0,512,4400.0,25,7.6,1856,2160,120.0,3,2.0,50.0,10.0,Android,0
+samsung,Samsung Galaxy Z Flip 6 (512GB),79499,91,Yes,Yes,No,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12.0,512,4000.0,25,6.7,1080,2640,120.0,2,1.0,50.0,10.0,Android,0
+realme,Realme Narzo 70x 5G (8GB RAM + 128GB),18490,77,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+itel,itel A80,6999,61,No,No,No,Unisoc T603,unisoc,Octa Core,,4.0,128,5000.0,10,6.7,720,1600,120.0,2,1.0,50.0,8.0,Android,2048
+tecno,Tecno Phantom V Flip 2,54999,87,Yes,Yes,No,Dimensity 8020,mediatek,Octa Core,2.6,8.0,256,4720.0,70,6.9,1080,2640,120.0,2,1.0,50.0,32.0,Android,0
+realme,Realme Narzo N63 (4GB RAM + 128GB),8999,72,No,Yes,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,128,5000.0,45,6.75,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme Narzo N63,7999,71,No,Yes,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,45,6.75,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme C61,7699,67,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,18,6.74,720,1600,90.0,1,1.0,32.0,5.0,Android,2048
+hmd,HMD Skyline 5G,35999,87,Yes,Yes,No,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12.0,256,4600.0,33,6.55,1080,2400,144.0,3,1.0,108.0,50.0,Android,512
+iqoo,iQOO Z9 Lite 5G,13938,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,15,6.56,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo T3 Lite 5G,11099,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y28e 5G,10999,69,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,13.0,5.0,Android,1024
+samsung,Samsung Galaxy F55 5G (12GB RAM + 256GB),33249,85,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,12.0,256,5000.0,45,6.7,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+realme,Realme Narzo N65 5G (6GB RAM + 128GB),12499,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,15,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+poco,Poco F6 5G (12GB RAM + 512GB),33999,83,Yes,Yes,Yes,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,5000.0,90,6.67,1220,2712,120.0,2,1.0,50.0,20.0,Android,0
+realme,Realme Narzo N65 5G,10499,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,15,6.67,720,1604,120.0,2,1.0,50.0,8.0,Android,2048
+vivo,Vivo Y28s 5G,12999,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+tecno,Tecno Spark 20 Pro 5G,15999,79,Yes,No,No,Dimensity 6080,mediatek,Octa Core,2.4,8.0,256,5000.0,33,6.78,1080,2460,120.0,3,1.0,108.0,8.0,Android,0
+realme,Realme GT 6T (8GB RAM + 256GB),28999,84,Yes,Yes,Yes,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,8.0,256,5500.0,120,6.78,1264,2780,120.0,2,1.0,50.0,32.0,Android,0
+vivo,Vivo Y18 (4GB RAM + 128GB),12999,71,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,0
+vivo,Vivo V30e (8GB RAM + 256GB),27999,84,Yes,Yes,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,256,5500.0,44,6.78,1080,2400,120.0,2,1.0,50.0,50.0,Android,0
+samsung,Samsung Galaxy M15 5G (8GB RAM + 128GB),16950,79,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,6000.0,25,6.45,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+google,Google Pixel 8A (8GB RAM + 256GB),44999,77,Yes,Yes,No,Tensor G3,tensor,Nine Core,3.0,8.0,256,4492.0,0,6.1,1080,2400,120.0,2,1.0,64.0,13.0,Android,0
+realme,Realme C65 5G (6GB RAM + 128GB),11990,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,15,6.67,720,1604,120.0,1,1.0,50.0,8.0,Android,2048
+realme,Realme C65 5G (4GB RAM + 128GB),10999,73,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,128,5000.0,15,6.67,720,1604,120.0,1,1.0,50.0,8.0,Android,2048
+realme,Realme Narzo 70x 5G (6GB RAM + 128GB),14990,75,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+samsung,Samsung Galaxy F15 5G (8GB RAM + 128GB),15899,78,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,6000.0,25,6.45,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+realme,Realme Narzo 70x 5G,11799,74,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,4.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+itel,itel S24,8499,74,No,No,No,Helio G91,mediatek,Octa Core,2.0,8.0,128,5000.0,18,6.6,720,1612,90.0,2,1.0,108.0,8.0,Android,0
+motorola,Motorola Moto G04s,7299,68,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,4.0,64,5000.0,15,6.6,720,1612,90.0,1,1.0,50.0,5.0,Android,1024
+samsung,Samsung Galaxy M15 5G (6GB RAM + 128GB),16000,77,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,6000.0,25,6.45,1080,2340,90.0,3,1.0,50.0,13.0,Android,1024
+infinix,Infinix Zero Flip 5G,44999,87,Yes,Yes,No,Dimensity 8020,mediatek,Octa Core,2.6,8.0,512,4720.0,70,6.9,1080,2640,120.0,2,1.0,50.0,50.0,Android,0
+realme,Realme 12X (6GB RAM +128GB),11499,75,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,8.0,Android,2048
+realme,Realme C63,8968,71,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,128,5000.0,45,6.75,720,1600,90.0,2,1.0,50.0,8.0,Android,2048
+samsung,Samsung Galaxy M55 (8GB RAM + 256GB),31999,85,Yes,Yes,No,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8.0,256,5000.0,45,6.67,1080,2400,120.0,3,1.0,50.0,50.0,Android,1024
+poco,Poco C61 (6GB RAM + 128GB),8499,68,No,No,No,Helio G36,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+realme,Realme Narzo 70 Pro 5G (8GB RAM + 256GB),18999,82,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,256,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,2048
+lava,Lava O3,5899,57,No,No,No,UNISOC SC9863A,unisoc,Octa Core,,4.0,64,5000.0,10,6.75,1600,720,60.0,2,1.0,13.0,5.0,Android,1024
+poco,Poco X6 Neo (12GB RAM + 256GB),17499,82,Yes,No,Yes,Dimensity 6080,mediatek,Octa Core,2.4,12.0,256,5000.0,33,6.67,1080,2400,120.0,2,1.0,108.0,16.0,Android,1024
+iqoo,iQOO Z9 5G (8GB RAM + 256GB),23990,82,Yes,No,No,Dimensity 7200,mediatek,Octa Core,2.8,8.0,256,5000.0,44,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+realme,Realme 12 Pro 5G (12GB RAM + 256GB),22999,81,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,12.0,256,5000.0,67,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo V30 5G (8GB RAM + 256GB),32999,83,Yes,No,No,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8.0,256,5000.0,80,6.78,1260,2800,120.0,2,1.0,50.0,50.0,Android,0
+realme,Realme 12 5G (8GB RAM + 128GB),14999,78,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,108.0,8.0,Android,2048
+infinix,Infinix Note 40 Pro Plus 5G,22999,86,Yes,Yes,Yes,Dimensity 7020,mediatek,Octa Core,2.2,12.0,256,4600.0,100,6.78,1080,2436,120.0,3,1.0,108.0,32.0,Android,0
+oppo,Oppo F25 Pro 5G (8GB RAM + 256GB),24999,84,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,256,5000.0,67,6.7,1080,2412,120.0,3,1.0,64.0,32.0,Android,2048
+iqoo,iQOO Neo 9 Pro 5G (8GB RAM + 128GB),32690,80,Yes,No,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,8.0,128,5160.0,120,6.78,1260,2800,144.0,2,1.0,50.0,16.0,Android,0
+vivo,Vivo Y200e 5G (8GB RAM + 128GB),19999,79,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,128,5000.0,44,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+xiaomi,Xiaomi Redmi A3 (4GB RAM + 128GB),7680,66,No,No,No,Helio G36,mediatek,Octa Core,2.2,4.0,128,5000.0,10,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+xiaomi,Xiaomi Redmi A3 (6GB RAM + 128GB),8299,68,No,No,No,Helio G36,mediatek,Octa Core,2.2,6.0,128,5000.0,10,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+poco,Poco X6 5G (12GB RAM + 256GB),22999,81,Yes,No,Yes,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,12.0,256,5100.0,67,6.67,1220,2712,120.0,3,1.0,64.0,16.0,Android,0
+iqoo,iQOO Neo 9 Pro 5G (12GB RAM + 256GB),37990,82,Yes,No,Yes,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,12.0,256,5160.0,120,6.78,1260,2800,144.0,2,1.0,50.0,16.0,Android,0
+realme,Realme 13 5G,17999,79,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,8.0,128,5000.0,45,6.72,1080,2400,120.0,2,1.0,50.0,16.0,Android,2048
+vivo,Vivo Y18e,9999,66,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,15,6.56,720,1612,90.0,2,1.0,13.0,5.0,Android,1024
+infinix,Infinix Smart 8 (8GB RAM + 128 GB),8999,74,No,No,No,Helio G36,mediatek,Octa Core,2.2,8.0,128,5000.0,10,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,2048
+samsung,Samsung Galaxy M14 4G,9399,73,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,4.0,64,5000.0,25,6.72,1080,2400,90.0,3,1.0,50.0,13.0,Android,1024
+realme,Realme 12 Pro 5G (8GB RAM + 256GB),20999,80,Yes,No,No,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8.0,256,5000.0,67,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo Y200e 5G,18999,77,Yes,No,No,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5000.0,44,6.67,1080,2400,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy A14 5G (4GB RAM + 128GB),14499,74,Yes,No,No,Exynos 1330,exynos,Octa Core,2.4,4.0,128,5000.0,15,6.6,1080,2408,90.0,3,1.0,50.0,13.0,Android,1024
+poco,Poco X6 5G (12GB RAM + 512GB),24999,82,Yes,No,Yes,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,12.0,512,5100.0,67,6.67,1220,2712,120.0,3,1.0,64.0,16.0,Android,0
+vivo,Vivo Y28 5G (6GB RAM + 128GB),14499,75,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,6.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y28 5G (8GB RAM + 128GB),15999,77,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y28 5G,12999,74,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,4.0,128,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+nothing,Nothing Phone 2a (12GB RAM + 256GB),25978,85,Yes,Yes,No,Dimensity 7200 Pro,mediatek,Octa Core,2.8,12.0,256,5000.0,45,6.7,1084,2412,120.0,2,1.0,50.0,32.0,Android,0
+oppo,OPPO A59 5G (6GB RAM + 128GB),15494,73,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,6.0,128,5000.0,33,6.56,720,1612,90.0,2,1.0,13.0,8.0,Android,1024
+samsung,Samsung Galaxy A25 5G (8GB RAM + 256GB),22949,83,Yes,Yes,No,Exynos 1280,exynos,Octa Core,2.4,8.0,256,5000.0,25,6.5,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+poco,Poco M6 5G (6GB RAM + 128GB),9990,73,Yes,No,Yes,Dimensity 6100 Plus,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.74,720,1650,90.0,2,1.0,50.0,5.0,Android,1024
+motorola,Motorola Moto G04,7990,64,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,4.0,64,5000.0,15,6.56,720,1600,90.0,1,1.0,16.0,5.0,Android,1024
+samsung,Samsung Galaxy S23 FE 5G (Snapdragon),43850,84,Yes,Yes,No,Snapdragon 8 Gen1,snapdragon,Octa Core,3.0,8.0,128,4500.0,25,6.4,1080,2340,120.0,3,1.0,50.0,10.0,Android,0
+lava,Lava Yuva 4,6999,65,No,No,No,unisoc T606,unisoc,Octa Core,1.6,4.0,64,5000.0,10,6.56,1600,720,90.0,2,1.0,50.0,8.0,Android,1024
+poco,Poco C65 (6GB RAM + 128GB),9499,74,No,No,No,Helio G85,mediatek,Octa Core,2.0,6.0,128,5000.0,18,6.74,720,1600,90.0,3,1.0,50.0,8.0,Android,1024
+infinix,Infinix Smart 8 Plus,7799,71,No,No,No,Helio G36,mediatek,Octa Core,2.2,4.0,128,6000.0,18,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,2048
+xiaomi,Xiaomi Redmi 13C (8GB RAM + 256GB),15999,76,No,No,No,Helio G85,mediatek,Octa Core,2.0,8.0,256,5000.0,18,6.74,720,1600,90.0,3,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi 13C (6GB RAM + 128GB),9999,74,No,No,No,Helio G85,mediatek,Octa Core,2.0,6.0,128,5000.0,18,6.74,720,1600,90.0,3,1.0,50.0,8.0,Android,1024
+poco,Poco M6 Pro 5G (8GB RAM + 256GB),14999,78,Yes,No,Yes,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8.0,256,5000.0,18,6.79,1080,2460,90.0,2,1.0,50.0,8.0,Android,1024
+infinix,Infinix Smart 8 HD,6699,63,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,3.0,64,5000.0,10,6.6,720,1612,90.0,2,1.0,13.0,8.0,Android,2048
+xiaomi,Xiaomi Redmi A3,6999,63,No,No,No,Helio G36,mediatek,Octa Core,2.2,3.0,64,5000.0,10,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+realme,Realme C65 5G,13999,71,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,4.0,64,5000.0,15,6.67,720,1604,120.0,1,1.0,50.0,8.0,Android,2048
+lava,Lava Blaze 3 5G,9999,74,Yes,No,No,Dimensity 6300,mediatek,Octa Core,2.4,6.0,128,5000.0,18,6.56,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+lava,Lava Blaze 2 5G (6GB RAM + 128GB),8999,74,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.5,720,1600,90.0,2,1.0,50.0,8.0,Android,1024
+google,Google Pixel 8 Pro (12GB RAM + 256 GB),64999,79,Yes,Yes,No,Tensor G3,tensor,Nine Core,3.0,12.0,256,5050.0,30,6.7,1344,2992,120.0,3,1.0,50.0,10.5,Android,0
+itel,itel A70 4G,9999,59,No,No,No,Unisoc T603,unisoc,Octa Core,,4.0,128,5000.0,10,6.6,720,1612,60.0,2,1.0,13.0,8.0,Android,2048
+tecno,Tecno Pop 8,6999,64,No,No,No,Unisoc T606,unisoc,Octa Core,1.6,4.0,64,5000.0,10,6.56,720,1612,90.0,2,1.0,12.0,8.0,Android,1024
+infinix,Infinix Smart 8,7299,70,No,No,No,Helio G36,mediatek,Octa Core,2.2,4.0,64,5000.0,10,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,2048
+realme,Realme C51 (4GB RAM + 128 GB),7999,69,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,128,5000.0,33,6.74,720,1600,90.0,2,1.0,50.0,5.0,Android,2048
+oppo,OPPO A59 5G,13994,70,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,4.0,128,5000.0,33,6.56,720,1612,90.0,2,1.0,13.0,8.0,Android,1024
+lava,Lava O1,6999,62,No,No,No,Unisoc T606,unisoc,Octa Core,2.0,4.0,64,5000.0,18,6.56,1600,720,90.0,2,1.0,13.0,5.0,Android,256
+google,Google Pixel 8 (8GB RAM + 256 GB),47999,76,Yes,Yes,No,Tensor G3,tensor,Nine Core,3.0,8.0,256,4575.0,30,6.2,1080,2400,120.0,2,1.0,50.0,10.5,Android,0
+vivo,Vivo Y17s (4GB RAM + 128 GB),10494,71,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,128,5000.0,15,6.56,720,1612,60.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),44994,82,Yes,Yes,No,Exynos 2200,exynos,Octa Core,2.8,8.0,256,4500.0,25,6.4,1080,2340,120.0,3,1.0,50.0,10.0,Android,0
+vivo,Vivo V29 Pro (12GB RAM + 256GB),33794,83,Yes,No,No,Dimensity 8200,mediatek,Octa Core,3.1,12.0,256,4600.0,80,6.78,1260,2800,120.0,3,1.0,50.0,50.0,Android,0
+xiaomi,Xiaomi Redmi 13C 4G,9294,72,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,128,5000.0,18,6.74,720,1600,90.0,3,1.0,50.0,8.0,Android,1024
+oppo,OPPO A79 5G,18447,78,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,128,5000.0,33,6.72,1080,2400,90.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme C53 (6GB RAM + 128GB),9999,75,No,No,No,Tiger T612,tiger,Octa Core,1.82,6.0,128,5000.0,18,6.74,1080,2400,90.0,2,1.0,108.0,8.0,Android,2048
+motorola,Motorola Edge 40 Neo (12GB RAM + 256GB),24990,83,Yes,Yes,No,Dimensity 7030,mediatek,Octa Core,2.5,12.0,256,5000.0,68,6.55,1080,2400,144.0,2,1.0,50.0,32.0,Android,0
+poco,Poco M6 Pro 5G (4GB RAM + 128GB),11890,74,Yes,No,Yes,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4.0,128,5000.0,18,6.79,1080,2460,90.0,2,1.0,50.0,8.0,Android,1024
+lava,Lava Blaze Pro 5G,10999,77,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,128,5000.0,33,6.78,1080,2460,120.0,2,1.0,50.0,8.0,Android,1024
+apple,Apple iPhone 15 (512GB),82900,82,Yes,Yes,No,Bionic A16,bionic,Hexa Core,3.46,6.0,512,3349.0,0,6.1,1179,2556,60.0,2,1.0,48.0,12.0,iOS,0
+poco,Poco C51 (6GB RAM + 128 GB),8999,69,No,No,No,Helio G36,mediatek,Octa Core,2.2,6.0,128,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,1024
+vivo,Vivo V29e (8GB RAM + 256GB),26990,83,Yes,Yes,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,256,5000.0,44,6.78,1080,2400,120.0,2,1.0,64.0,50.0,Android,0
+realme,Realme 11x 5G (8GB RAM + 128GB),18999,78,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,5000.0,33,6.72,1080,2400,120.0,2,1.0,64.0,8.0,Android,2048
+oppo,Oppo A18,10299,63,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,-1,6.56,720,1612,60.0,2,1.0,8.0,5.0,Android,0
+oppo,OPPO A38,11390,71,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,128,5000.0,33,6.56,720,1612,90.0,2,1.0,50.0,5.0,Android,1024
+tecno,Tecno Spark 20,8999,76,No,No,No,Helio G85,mediatek,Octa Core,2.0,8.0,128,5000.0,18,6.56,720,1612,90.0,2,1.0,50.0,32.0,Android,1024
+samsung,Samsung Galaxy F34 5G (8GB RAM + 128GB),21999,83,Yes,Yes,No,Exynos 1280,exynos,Octa Core,2.4,8.0,128,6000.0,25,6.5,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+xiaomi,Xiaomi Redmi Note 12 Pro (12GB RAM + 256GB),26099,81,Yes,No,Yes,Dimensity 1080,mediatek,Octa Core,2.6,12.0,256,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,0
+poco,Poco M6 Pro 5G (6GB RAM + 128GB),13999,75,Yes,No,Yes,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5000.0,18,6.79,1080,2460,90.0,2,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi 12 4G (6GB RAM + 128GB),11790,75,No,No,Yes,Helio G88,mediatek,Octa Core,2.0,6.0,128,5000.0,18,6.79,1080,2460,90.0,3,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi 12 5G (6GB RAM + 128GB),12494,75,Yes,No,Yes,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6.0,128,5000.0,18,6.79,1080,2460,90.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy Z Fold 5 (12GB RAM + 1TB),133000,91,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,12.0,1024,4400.0,25,7.6,1812,2176,120.0,3,2.0,50.0,10.0,Android,0
+samsung,Samsung Galaxy Z Fold 5 (12GB RAM + 512GB),107999,91,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,12.0,512,4400.0,25,7.6,1812,2176,120.0,3,2.0,50.0,10.0,Android,0
+poco,Poco C65,8499,72,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,128,5000.0,18,6.74,720,1600,90.0,3,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi 12 5G,11999,74,Yes,No,Yes,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4.0,128,5000.0,18,6.79,1080,2460,90.0,2,1.0,50.0,8.0,Android,1024
+poco,Poco C61,6650,65,No,No,No,Helio G36,mediatek,Octa Core,2.2,4.0,64,5000.0,18,6.71,720,1650,90.0,2,1.0,8.0,5.0,Android,1024
+tecno,Tecno Pova 5 Pro,11999,81,Yes,Yes,No,Dimensity 6080,mediatek,Octa Core,2.4,8.0,128,5000.0,68,6.78,1080,2460,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy M34 5G (8GB RAM + 128GB),22490,82,Yes,Yes,No,Exynos 1280,exynos,Octa Core,2.4,8.0,128,6000.0,25,6.5,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+oneplus,OnePlus Nord 3 5G (16GB RAM + 256GB),31999,85,Yes,Yes,Yes,Dimensity 9000,mediatek,Octa Core,3.05,16.0,256,5000.0,80,6.74,1240,2772,120.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi 12C (4GB RAM + 128GB),9999,71,No,No,No,Helio  G85,mediatek,Octa Core,2.0,4.0,128,5000.0,-1,6.71,720,1650,60.0,2,1.0,50.0,5.0,Android,1024
+realme,Realme Narzo 60 5G,19890,80,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,128,5000.0,33,6.43,1080,2400,90.0,2,1.0,64.0,16.0,Android,1024
+vivo,Vivo Y27 4G,11994,74,No,No,No,Helio G85,mediatek,Octa Core,2.0,6.0,128,5000.0,44,6.64,1080,2388,60.0,2,1.0,50.0,8.0,Android,0
+motorola,Motorola Razr 50 Ultra,59999,91,Yes,Yes,No,Snapdragon 8s Gen3,snapdragon,Octa Core,3.0,12.0,512,4000.0,45,6.9,1080,2640,165.0,2,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy A14 4G (4GB RAM + 128 GB),18499,74,No,No,No,Exynos 850,exynos,Octa Core,2.0,4.0,128,5000.0,15,6.6,1080,2408,60.0,3,1.0,50.0,13.0,Android,1024
+iqoo,iQOO Neo 7 Pro,35126,81,Yes,No,Yes,Snapdragon 8+ Gen1,snapdragon,Octa Core,3.2,8.0,128,5000.0,120,6.78,1080,2400,120.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi A2 (4GB RAM + 64GB),8990,65,No,No,No,Helio G36,mediatek,Octa Core,2.2,4.0,64,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,512
+infinix,Infinix Note 30 5G,14999,79,Yes,Yes,No,Dimensity 6080,mediatek,Octa Core,2.4,4.0,128,5000.0,45,6.78,1080,2460,120.0,3,1.0,108.0,16.0,Android,2048
+samsung,Samsung Galaxy F34 5G,19999,81,Yes,Yes,No,Exynos 1280,exynos,Octa Core,2.4,6.0,128,6000.0,25,6.5,1080,2340,120.0,3,1.0,50.0,13.0,Android,1024
+vivo,Vivo Y18,10599,70,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,15,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,0
+tecno,Tecno Camon 20 Pro 5G,16100,82,Yes,No,No,Dimensity 8050,mediatek,Octa Core,3.0,8.0,128,5000.0,33,6.67,1080,2400,120.0,3,1.0,64.0,32.0,Android,0
+tecno,Tecno Spark 10 5G (8GB RAM + 256GB),16999,77,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,256,5000.0,18,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+realme,Realme Narzo N53,10300,69,No,No,No,Unisoc T612,unisoc,Octa Core,1.8,4.0,64,5000.0,33,6.74,720,1600,90.0,2,1.0,50.0,8.0,Android,2048
+realme,Realme Narzo 70 Pro 5G,17999,81,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,128,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,2048
+vivo,Vivo X90 (12GB RAM + 256GB),48778,87,Yes,Yes,Yes,Dimensity 9200,mediatek,Octa Core,3.05,12.0,256,4810.0,120,6.78,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme C53,8994,74,No,No,No,Tiger T612,tiger,Octa Core,1.82,4.0,128,5000.0,18,6.74,1080,2400,90.0,2,1.0,108.0,8.0,Android,2048
+oppo,OPPO Find N3 Flip,69994,89,Yes,Yes,No,Dimensity 9200,mediatek,Octa Core,3.05,12.0,256,4300.0,44,6.8,1080,2520,120.0,3,1.0,50.0,32.0,Android,0
+tecno,Tecno Spark 10 5G (8GB RAM + 128GB),10999,76,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,128,5000.0,18,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y16 (4GB RAM + 128GB),9390,68,No,No,No,Helio P35,mediatek,Octa Core,2.3,4.0,128,5000.0,10,6.51,720,1600,60.0,2,1.0,13.0,5.0,Android,0
+realme,Realme 11,13999,81,Yes,No,No,Dimensity 6100 Plus,mediatek,Octa Core,2.2,8.0,128,5000.0,67,6.72,1080,2400,120.0,2,1.0,108.0,16.0,Android,1024
+vivo,Vivo Y22 (4GB RAM + 128GB),8999,72,No,No,No,Helio G70,mediatek,Octa Core,2.0,4.0,128,5000.0,18,6.55,720,1612,60.0,2,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi Note 12 (8GB RAM + 256GB),18499,81,Yes,No,Yes,Snapdragon 4 Gen 1,snapdragon,Octa Core,2.0,8.0,256,5000.0,33,6.67,1080,2400,120.0,3,1.0,48.0,13.0,Android,1024
+vivo,Vivo Y100A (8GB RAM + 256GB),16979,81,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,256,4500.0,44,6.38,1080,2400,90.0,3,1.0,64.0,16.0,Android,0
+vivo,Vivo T2x 5G (8GB RAM + 128GB),14999,78,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,8.0,128,5000.0,18,6.58,1080,2408,60.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo T2 5G (8GB RAM + 128GB),17999,80,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,4500.0,44,6.38,1080,2400,90.0,2,1.0,64.0,16.0,Android,1024
+infinix,Infinix Hot 30i (4GB RAM+ 64GB),8999,70,No,No,No,Helio G37,mediatek,Octa Core,2.3,4.0,64,5000.0,10,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo T2x 5G,11999,74,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,4.0,128,5000.0,18,6.58,1080,2408,60.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo X100 Pro 5G,89899,91,Yes,Yes,Yes,Dimensity 9300,mediatek,Octa Core,3.25,16.0,256,5400.0,100,6.78,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+poco,Poco C51,8499,65,No,No,No,Helio G36,mediatek,Octa Core,2.2,4.0,64,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,1024
+samsung,Samsung Galaxy F14 5G (6GB RAM + 128GB),13490,70,Yes,No,No,Exynos 1330,exynos,Octa Core,,6.0,128,6000.0,25,6.6,2408,1080,60.0,2,1.0,50.0,13.0,Android,1024
+samsung,Samsung Galaxy A34 5G (8GB RAM + 256GB),29499,84,Yes,Yes,No,Dimensity 1080,mediatek,Octa Core,2.6,8.0,256,5000.0,25,6.6,1080,2340,120.0,3,1.0,48.0,13.0,Android,1024
+realme,Realme C55 (6GB RAM + 64GB),8499,74,No,No,No,Helio G88,mediatek,Octa Core,2.0,6.0,64,5000.0,33,6.72,1080,2400,90.0,2,1.0,64.0,8.0,Android,1024
+tecno,Tecno Spark 10 5G,11700,72,Yes,No,No,Dimensity 6020,mediatek,Octa Core,2.2,4.0,64,5000.0,18,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy F14 5G,11990,67,Yes,No,No,Exynos 1330,exynos,Octa Core,,4.0,128,6000.0,25,6.6,2408,1080,60.0,2,1.0,50.0,13.0,Android,1024
+infinix,Infinix Hot 30i,9499,74,No,No,No,Helio G37,mediatek,Octa Core,2.3,8.0,128,5000.0,10,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,1024
+tecno,Tecno Spark 10,10399,74,No,No,No,Helio G37,mediatek,Octa Core,2.3,8.0,128,5000.0,18,6.56,720,1612,90.0,2,1.0,50.0,8.0,Android,0
+poco,Poco C55 (6GB RAM + 128GB),13999,74,No,No,No,Helio  G85,mediatek,Octa Core,2.0,6.0,128,5000.0,10,6.71,720,1650,60.0,2,1.0,50.0,5.0,Android,1024
+lava,Lava Yuva 2 Pro,6698,64,No,No,No,Helio G37,mediatek,Octa Core,2.3,4.0,64,5000.0,10,6.5,1600,720,60.0,3,1.0,13.0,5.0,Android,256
+tecno,Tecno Pop 7 Pro (3GB RAM + 64GB),8990,62,No,No,No,Helio A22,mediatek,Quad Core,2.0,3.0,64,5000.0,10,6.56,720,1612,60.0,2,1.0,12.0,5.0,Android,256
+lava,Lava Agni 2 5G,16387,80,Yes,No,No,Dimensity 7050,mediatek,Octa Core,2.6,8.0,256,4700.0,66,6.78,1080,2460,120.0,4,1.0,50.0,16.0,Android,0
+vivo,Vivo Y56,15999,81,Yes,No,No,Dimensity 700 5G,mediatek,Octa Core,2.2,8.0,128,5000.0,18,6.58,1080,2408,60.0,2,1.0,50.0,16.0,Android,0
+samsung,Samsung Galaxy A14 4G,9998,72,No,No,No,Exynos 850,exynos,Octa Core,2.0,4.0,64,5000.0,15,6.6,1080,2408,60.0,3,1.0,50.0,13.0,Android,1024
+oneplus,OnePlus 11 (16GB RAM + 256GB),61999,88,Yes,Yes,No,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,16.0,256,5000.0,100,6.7,1440,3216,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo T2 5G,15999,77,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,6.0,128,4500.0,44,6.38,1080,2400,90.0,2,1.0,64.0,16.0,Android,1024
+motorola,Motorola Moto E13 (4GB RAM + 64GB),6999,64,No,No,No,Tiger T606,tiger,Octa Core,1.6,4.0,64,5000.0,10,6.5,720,1600,60.0,1,1.0,13.0,5.0,Android,1024
+poco,Poco X5 Pro (8GB RAM + 256GB),19349,82,Yes,No,Yes,Snapdragon 778G,snapdragon,Octa Core,2.4,8.0,256,5000.0,67,6.67,1080,2400,120.0,3,1.0,108.0,16.0,Android,0
+tecno,Tecno Phantom V Fold,70999,91,Yes,Yes,No,Dimensity 9000 Plus,mediatek,Octa Core,3.2,12.0,512,5000.0,45,7.85,2000,2296,120.0,3,2.0,50.0,32.0,Android,0
+xiaomi,Xiaomi Redmi A2,7990,60,No,No,No,Helio G36,mediatek,Octa Core,2.2,2.0,32,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,512
+tecno,Tecno Camon 20 Premier,25999,87,Yes,Yes,No,Dimensity 8050,mediatek,Octa Core,3.0,8.0,512,5000.0,45,6.67,1080,2400,120.0,3,1.0,108.0,32.0,Android,0
+samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),19898,79,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5000.0,25,6.6,1080,2408,120.0,4,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),16499,80,Yes,No,No,Exynos 1330,exynos,Octa Core,2.4,8.0,128,5000.0,15,6.6,1080,2408,90.0,3,1.0,50.0,13.0,Android,1024
+samsung,Samsung Galaxy Z Fold 5,109999,90,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,12.0,256,4400.0,25,7.6,1812,2176,120.0,3,2.0,50.0,10.0,Android,0
+samsung,Samsung Galaxy A04s (4GB RAM + 128GB),10199,71,No,No,No,Exynos 850,exynos,Octa Core,2.0,4.0,128,5000.0,15,6.5,720,1600,90.0,3,1.0,50.0,5.0,Android,1024
+poco,Poco C55,9499,70,No,No,No,Helio  G85,mediatek,Octa Core,2.0,4.0,64,5000.0,10,6.71,720,1650,60.0,2,1.0,50.0,5.0,Android,1024
+vivo,Vivo Y100 5G,16990,80,Yes,No,No,Dimensity  900,mediatek,Octa Core,2.4,8.0,128,4500.0,44,6.38,1080,2400,90.0,3,1.0,64.0,16.0,Android,0
+oppo,OPPO Reno 10 Pro,30790,84,Yes,Yes,Yes,Snapdragon 778G,snapdragon,Octa Core,2.4,12.0,256,4600.0,80,6.7,1080,2412,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme C55,8499,72,No,No,No,Helio G88,mediatek,Octa Core,2.0,4.0,64,5000.0,33,6.72,1080,2400,90.0,2,1.0,64.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),12239,78,Yes,No,Yes,Snapdragon 4 Gen 1,snapdragon,Octa Core,2.0,6.0,128,5000.0,33,6.67,1080,2400,120.0,3,1.0,48.0,13.0,Android,1024
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),20694,80,Yes,No,Yes,Dimensity 1080,mediatek,Octa Core,2.6,8.0,256,5000.0,67,6.67,1080,2400,120.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi Redmi 12C,8999,69,No,No,No,Helio  G85,mediatek,Octa Core,2.0,4.0,64,5000.0,-1,6.71,720,1650,60.0,2,1.0,50.0,5.0,Android,1024
+oppo,Oppo Reno 8T,38999,85,Yes,Yes,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,4800.0,67,6.7,1080,2412,120.0,3,1.0,108.0,32.0,Android,1024
+samsung,Samsung Galaxy A04 (4GB RAM + 128GB),8499,71,No,No,No,Helio P35,mediatek,Octa Core,2.3,4.0,128,5000.0,0,6.5,720,1600,60.0,2,1.0,50.0,5.0,Android,1024
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),23999,85,Yes,No,Yes,Dimensity 1080,mediatek,Octa Core,2.6,12.0,256,4980.0,120,6.67,1080,2400,120.0,3,1.0,200.0,16.0,Android,0
+samsung,Samsung Galaxy A04e (4GB RAM + 128GB),8199,68,No,No,No,Helio P35,mediatek,Octa Core,2.3,4.0,128,5000.0,-1,6.5,720,1600,60.0,2,1.0,13.0,5.0,Android,1024
+samsung,Samsung Galaxy A04e (3GB RAM + 64GB),6890,65,No,No,No,Helio P35,mediatek,Octa Core,2.3,3.0,64,5000.0,-1,6.5,720,1600,60.0,2,1.0,13.0,5.0,Android,1024
+tecno,Tecno Phantom X2 Pro,45799,85,Yes,Yes,No,Dimensity 9000,mediatek,Octa Core,3.05,12.0,256,5160.0,45,6.8,1080,2400,120.0,3,1.0,50.0,32.0,Android,0
+realme,Realme 10 Pro (8GB RAM + 128GB),19499,82,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,8.0,128,5000.0,33,6.72,1080,2400,120.0,2,1.0,108.0,16.0,Android,1024
+samsung,Samsung Galaxy Z Flip 5,69999,85,Yes,Yes,No,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.2,8.0,256,3700.0,25,6.7,1080,2640,120.0,2,1.0,12.0,10.0,Android,0
+vivo,Vivo Y02,8368,53,No,No,No,Helio,mediatek,Octa Core,,3.0,32,5000.0,10,6.51,720,1600,60.0,1,1.0,8.0,5.0,Android,1024
+infinix,Infinix Zero 5G 2023,18499,82,Yes,No,No,Dimensity 920 5G,mediatek,Octa Core,2.5,8.0,128,5000.0,33,6.78,1080,2460,120.0,3,1.0,50.0,16.0,Android,256
+xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),6999,60,No,No,No,Helio A22,mediatek,Quad Core,2.0,3.0,32,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,512
+motorola,Motorola Moto E22s,7299,69,No,No,No,Helio G37,mediatek,Octa Core,2.3,4.0,64,5000.0,10,6.5,720,1600,90.0,2,1.0,16.0,8.0,Android,0
+lava,Lava Storm 5G,13051,79,Yes,No,No,Dimensity 6080,mediatek,Octa Core,2.4,8.0,128,5000.0,33,6.78,2400,1200,120.0,2,1.0,50.0,16.0,Android,1024
+samsung,Samsung Galaxy A04e,8999,64,No,No,No,Helio P35,mediatek,Octa Core,2.3,3.0,32,5000.0,-1,6.5,720,1600,60.0,2,1.0,13.0,5.0,Android,1024
+infinix,Infinix Note 12i (2022),12899,72,No,No,No,Helio G85,mediatek,Octa Core,2.0,4.0,64,5000.0,33,6.7,1080,2400,60.0,3,1.0,50.0,8.0,Android,512
+tecno,Tecno Phantom X2,39989,82,Yes,Yes,No,Dimensity 9000,mediatek,Octa Core,3.05,8.0,256,5160.0,45,6.8,1080,2400,120.0,3,1.0,64.0,32.0,Android,0
+oneplus,OnePlus 10R Prime Edition,34999,83,Yes,Yes,No,Dimensity 8100 Max,mediatek,Octa Core,2.85,8.0,128,5000.0,80,6.7,1080,2412,120.0,3,1.0,50.0,16.0,Android,0
+vivo,Vivo V25 (12GB RAM + 256GB),29999,83,Yes,No,No,Dimensity  900,mediatek,Octa Core,2.0,12.0,256,4500.0,44,6.44,1080,2408,90.0,3,1.0,64.0,50.0,Android,1024
+realme,Realme C30s (4GB RAM + 64GB),7499,61,No,No,No,Unisoc SC9863A,unisoc,Octa Core,1.6,4.0,64,5000.0,10,6.5,720,1600,60.0,1,1.0,8.0,5.0,Android,1024
+realme,Realme GT Neo 3T (8GB RAM + 128GB),17000,79,Yes,No,No,Snapdragon 870,snapdragon,Octa Core,3.2,8.0,128,5000.0,80,6.62,1080,2400,120.0,3,1.0,64.0,16.0,Android,0
+apple,Apple iPhone 14 Plus (512GB),99900,81,Yes,Yes,No,Bionic A15,bionic,Hexa Core,3.22,6.0,512,4325.0,0,6.7,1284,2778,60.0,2,1.0,12.0,12.0,iOS,0
+realme,Realme Narzo 50i Prime (4GB RAM + 64GB),8999,63,No,No,No,Tiger T612,tiger,Octa Core,1.82,4.0,64,5000.0,10,6.5,720,1600,60.0,1,1.0,8.0,5.0,Android,1024
+oppo,OPPO F21s Pro 4G,21999,80,No,No,No,Snapdragon  680,snapdragon,Octa Core,2.4,8.0,128,4500.0,33,6.43,1080,2400,90.0,3,1.0,64.0,32.0,Android,512
+apple,Apple iPhone 14 (512GB),82990,81,Yes,Yes,No,Bionic A15,bionic,Hexa Core,3.22,6.0,512,3279.0,0,6.1,1170,2532,60.0,2,1.0,12.0,12.0,iOS,0
+vivo,Vivo Y22 (6GB RAM + 128GB),11970,74,No,No,No,Helio G70,mediatek,Octa Core,2.0,6.0,128,5000.0,18,6.55,720,1612,60.0,2,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),10990,74,No,No,Yes,Helio G99,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.58,1080,2400,90.0,3,1.0,50.0,8.0,Android,512
+xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),14999,75,Yes,No,Yes,Dimensity 700 5G,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.58,1080,2408,90.0,2,1.0,50.0,5.0,Android,512
+realme,Realme C30s,7600,57,No,No,No,Unisoc SC9863A,unisoc,Octa Core,1.6,2.0,32,5000.0,10,6.5,720,1600,60.0,1,1.0,8.0,5.0,Android,1024
+oppo,OPPO A17K,7999,61,No,No,No,Helio G35,mediatek,Octa Core,2.3,3.0,64,5000.0,-1,6.56,720,1612,60.0,1,1.0,8.0,5.0,Android,1024
+xiaomi,Xiaomi Redmi A1 Plus,6790,59,No,No,No,Helio A22,mediatek,Quad Core,2.0,2.0,32,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,512
+iqoo,iQOO Z6 Lite 5G,13000,74,Yes,No,No,Snapdragon  4 Gen 1,snapdragon,Octa Core,2.0,4.0,64,5000.0,18,6.58,1080,2408,120.0,2,1.0,50.0,8.0,Android,1024
+motorola,Motorola Moto G72 4G,13990,80,No,No,No,Helio  G99,mediatek,Octa Core,2.2,6.0,128,5000.0,33,6.55,1080,2400,120.0,3,1.0,108.0,16.0,Android,0
+vivo,Vivo V25 Pro (12GB RAM + 256GB),39999,83,Yes,No,No,Dimensity 1300,mediatek,Octa Core,3.0,12.0,256,4830.0,66,6.56,1080,2376,120.0,3,1.0,64.0,32.0,Android,0
+oppo,OPPO A17,8999,71,No,No,No,Helio G35,mediatek,Octa Core,2.3,4.0,64,5000.0,0,6.56,720,1612,60.0,2,1.0,50.0,5.0,Android,1024
+xiaomi,Xiaomi Redmi A1,6999,58,No,No,No,Helio A22,mediatek,Quad Core,2.0,2.0,32,5000.0,10,6.52,720,1600,60.0,2,1.0,8.0,5.0,Android,512
+samsung,Samsung Galaxy Z Fold 4 (12GB RAM + 512GB),94990,90,Yes,Yes,No,Snapdragon  8+ Gen1,snapdragon,Octa Core,3.2,12.0,512,4400.0,25,7.6,1812,2176,120.0,3,2.0,50.0,10.0,Android,0
+vivo,Vivo Y22,10990,71,No,No,No,Helio G70,mediatek,Octa Core,2.0,4.0,64,5000.0,18,6.55,720,1612,60.0,2,1.0,50.0,8.0,Android,1024
+vivo,Vivo Y16,10999,64,No,No,No,Helio P35,mediatek,Octa Core,2.3,3.0,32,5000.0,10,6.51,720,1600,60.0,2,1.0,13.0,5.0,Android,0
+vivo,Vivo Y35,13980,77,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,8.0,128,5000.0,44,6.58,1080,2408,90.0,3,1.0,50.0,16.0,Android,1024
+infinix,Infinix Hot 12 Pro,10999,73,No,No,No,Tiger T616,tiger,Octa Core,2.0,6.0,64,5000.0,18,6.6,720,1612,90.0,2,1.0,50.0,8.0,Android,256
+samsung,Samsung Galaxy M04,9999,65,No,No,No,Helio P35,mediatek,Octa Core,2.3,4.0,64,5000.0,15,6.5,720,1600,60.0,2,1.0,13.0,5.0,Android,1024
+samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),11749,70,Yes,No,No,Dimensity 700,mediatek,Octa Core,2.2,4.0,64,5000.0,15,6.5,720,1600,90.0,2,1.0,50.0,5.0,Android,1024
+samsung,Samsung Galaxy M13 (4GB RAM + 64GB),9849,70,No,No,No,Exynos  850,exynos,Octa Core,2.0,4.0,64,6000.0,15,6.6,1080,2400,60.0,3,1.0,50.0,8.0,Android,1024
+realme,Realme C35 (6GB RAM + 128GB),13290,74,No,No,No,Tiger  T616,tiger,Octa Core,2.0,6.0,128,5000.0,18,6.6,1080,2408,90.0,3,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy A23 5G,19000,77,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,6.0,128,5000.0,25,6.6,1080,2408,120.0,4,1.0,50.0,8.0,Android,1024
+xiaomi,Xiaomi Redmi K50i 5G,22999,80,Yes,No,Yes,Dimensity  8100,mediatek,Octa Core,2.85,6.0,128,5080.0,67,6.6,1080,2460,144.0,3,1.0,64.0,16.0,Android,0
+oppo,OPPO A57 4G (4GB RAM + 64 GB),9999,68,No,No,No,Helio G35,mediatek,Octa Core,2.3,4.0,64,5000.0,33,6.56,720,1612,60.0,2,1.0,13.0,8.0,Android,0
+motorola,Motorola Moto E32s (4GB RAM + 64GB),6990,66,No,No,No,Helio G37,mediatek,Octa Core,1.8,4.0,64,5000.0,18,6.5,720,1600,90.0,3,1.0,16.0,8.0,Android,0
+motorola,Motorola Moto E32s,6490,64,No,No,No,Helio G37,mediatek,Octa Core,1.8,3.0,32,5000.0,18,6.5,720,1600,90.0,3,1.0,16.0,8.0,Android,1024
+infinix,Infinix Note 12 Turbo,14999,77,No,No,No,Helio G96,mediatek,Octa Core,2.0,8.0,128,5000.0,33,6.7,2400,1080,60.0,3,1.0,50.0,16.0,Android,512
+infinix,Infinix Note 12 (6GB RAM + 128GB),12999,75,No,No,No,Helio G88,mediatek,Octa Core,2.0,6.0,128,5000.0,33,6.7,2400,1080,60.0,3,1.0,50.0,16.0,Android,512
+oneplus,OnePlus Nord 2T (12GB RAM + 256GB),30999,83,Yes,Yes,No,Dimensity 1300,mediatek,Octa Core,3.0,12.0,256,4500.0,80,6.43,1080,2400,90.0,3,1.0,50.0,32.0,Android,0
+vivo,Vivo X90 5G,53999,86,Yes,Yes,Yes,Dimensity 9200,mediatek,Octa Core,3.05,8.0,256,4810.0,120,6.78,1260,2800,120.0,3,1.0,50.0,32.0,Android,0
+samsung,Samsung Galaxy A04,7850,70,No,No,No,Helio P35,mediatek,Octa Core,2.3,4.0,64,5000.0,0,6.5,720,1600,60.0,2,1.0,50.0,5.0,Android,1024
+realme,Realme Narzo 50 5G (4GB RAM + 64GB),15499,74,Yes,No,No,Dimensity 810 5G,mediatek,Octa Core,2.4,4.0,64,5000.0,33,6.6,1080,2400,90.0,3,1.0,48.0,16.0,Android,1024
+poco,Poco M5,8890,73,No,No,Yes,Helio G99,mediatek,Octa Core,2.2,4.0,64,5000.0,18,6.58,1080,2400,90.0,3,1.0,50.0,8.0,Android,512
+tecno,Tecno Spark 10C,12490,71,No,No,No,Unisoc T606,unisoc,Octa Core,2.0,8.0,128,5000.0,18,6.6,720,1612,90.0,2,1.0,16.0,8.0,Android,0
+infinix,Infinix Hot 12 Play,8999,65,No,No,No,Tiger T610,tiger,Octa Core,1.82,4.0,64,6000.0,18,6.82,1640,720,90.0,2,1.0,13.0,8.0,Android,256
+oppo,OPPO F23,20694,82,Yes,No,No,Snapdragon  695,snapdragon,Octa Core,2.2,8.0,256,5000.0,67,6.72,1080,2400,120.0,3,1.0,64.0,32.0,Android,1024
+xiaomi,Xiaomi Redmi 12 4G,9990,74,No,No,Yes,Helio G88,mediatek,Octa Core,2.0,4.0,128,5000.0,18,6.79,1080,2460,90.0,3,1.0,50.0,8.0,Android,1024
+vivo,Vivo T1 44W (6GB RAM + 128GB),14490,77,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,6.0,128,5000.0,44,6.44,1080,2408,60.0,3,1.0,50.0,16.0,Android,1024
+poco,Poco M4 5G (6GB RAM + 128GB),11997,77,Yes,No,Yes,Dimensity 700 5G,mediatek,Octa Core,2.2,6.0,128,5000.0,18,6.58,1080,2400,90.0,2,1.0,50.0,8.0,Android,512
+motorola,Motorola Edge 30 5G (8GB RAM + 128GB),23990,83,Yes,Yes,No,Snapdragon 778G+,snapdragon,Octa Core,2.5,8.0,128,4020.0,33,6.5,1080,2400,144.0,3,1.0,50.0,32.0,Android,0
+motorola,Motorola Moto G32,8999,73,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,4.0,64,5000.0,33,6.55,1080,2400,90.0,3,1.0,50.0,16.0,Android,1024
+vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),21990,82,Yes,No,No,Snapdragon 778G,snapdragon,Octa Core,2.4,8.0,128,4700.0,66,6.44,1080,2404,90.0,3,1.0,64.0,16.0,Android,1024
+motorola,Motorola Moto G52 (6GB RAM + 128GB),13999,77,No,Yes,No,Snapdragon 680,snapdragon,Octa Core,2.4,6.0,128,5000.0,33,6.6,2460,1080,90.0,3,1.0,50.0,16.0,Android,0
+xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),36499,87,Yes,Yes,Yes,Snapdragon 8 Gen1,snapdragon,Octa Core,3.0,12.0,256,4600.0,120,6.73,1440,3200,120.0,3,1.0,50.0,32.0,Android,0
+vivo,Vivo T1 44W,13290,75,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,4.0,128,5000.0,44,6.44,1080,2408,60.0,3,1.0,50.0,16.0,Android,1024
+realme,Realme Narzo 50A Prime (4GB RAM + 128GB),11999,73,No,No,No,Tiger T612,tiger,Octa Core,1.82,4.0,128,5000.0,18,6.6,1080,2408,60.0,3,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),25990,85,Yes,No,No,Dimensity  900 5G,mediatek,Octa Core,2.4,8.0,128,5000.0,25,6.7,1080,2400,120.0,4,1.0,108.0,32.0,Android,1024
+realme,Realme 10 Pro,17990,80,Yes,No,No,Snapdragon 695,snapdragon,Octa Core,2.2,6.0,128,5000.0,33,6.72,1080,2400,120.0,2,1.0,108.0,16.0,Android,1024
+realme,Realme 9 4G (8GB RAM + 128GB),15990,82,No,No,No,Snapdragon 680,snapdragon,Octa Core,2.4,8.0,128,5000.0,33,6.4,1080,2400,90.0,3,1.0,108.0,16.0,Android,256
+samsung,Samsung Galaxy F13,10999,71,No,No,No,Exynos 850,exynos,Octa Core,2.0,4.0,64,6000.0,15,6.6,2408,1080,60.0,3,1.0,50.0,8.0,Android,1024
+samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),28500,83,Yes,Yes,No,Exynos  1280,exynos,Octa Core,2.4,8.0,128,5000.0,25,6.4,1080,2400,90.0,4,1.0,48.0,13.0,Android,1024
+poco,Poco M4 5G,12999,74,Yes,No,Yes,Dimensity 700 5G,mediatek,Octa Core,2.2,4.0,64,5000.0,18,6.58,1080,2400,90.0,2,1.0,50.0,8.0,Android,512
